@@ -37,8 +37,8 @@ Atlas Obscura identifier,identifier for places at Atlas Obscura,6
 Wolfram Language entity code,input form for an entity in Wolfram Language,6
 Peakbagger mountain ID,"identifier for a mountain, on the www.peakbagger.com website",5
 Quora topic ID,identifier for a topic on Quora (English language version),5
-Microsoft Academic ID,identifier for an object or topic in the Microsoft Academic Graph,5
 Bavarian geotope ID,"identifier for geotopes in Bavaria (Germany), issued by the Bayerisches Landesamt für Umwelt",5
+Microsoft Academic ID,identifier for an object or topic in the Microsoft Academic Graph,5
 Washington Place Names ID,numerical identifier for a place in Washington Place Names,5
 HDS ID,"identifier in HDS/HLS/DHS/DSS: Historical Dictionary of Switzerland (Q642074), a national encyclopedia",4
 Smithsonian volcano ID,identifier of volcano in the Smithsonian Global Volcanism Program. Format: 6 digits.,4
@@ -54,19 +54,20 @@ Bivouac.com mountain ID,"identifier of a North American mountain, at Bivouac.com
 NE.se ID,ID of article on the Swedish Nationalencyklopedin (NE.se) site,2
 National Library of Israel ID,identifier for authority control used at the National Library of Israel,2
 FAST ID,authority control identifier in WorldCat's “FAST Linked Data” authority file,2
-Facebook Places ID,identifier for a place in Facebook,1
 Wiki Loves Monuments ID,unique ID for the monuments included in Wiki Loves Monument's national lists,1
+Facebook Places ID,identifier for a place in Facebook,1
 ortsnamen.ch ID,identifier for a toponym/geographical object on ortsnamen.ch,1
 Lexicon istoric retic ID,"identifier in the Lexicon istoric retic (LIR), Romansh variant of Historical Dictionary of Switzerland",1
 Brockhaus Enzyklopädie online ID,identifier for an article in the online version of Brockhaus Enzyklopädie,1
 Who's on First ID,identifier from the Who's on First database,1
-Lokalhistoriewiki.no ID,identifier for an article in lokalhistoriewiki.no,1
 PLWABN ID,"National Library of Poland record no. identifier. Format: ""981"", followed by 8 digits, then ending with ""05606""",1
+Lokalhistoriewiki.no ID,identifier for an article in lokalhistoriewiki.no,1
+Curlie ID,category path at Open Directory Project,1
 Interlingual Index ID,,1
 WordNet 3.1 Synset ID,Synset identifier in Princeton’s WordNet Version 3.1,1
-Curlie ID,category path at Open Directory Project,1
 MinDat Locality ID,ID of the minerals locality in MinDat database,1
 Hiking Project site ID,identifier for a remarkable site (a 'gem') on the Hiking Project website,1
+Encyclopedia of China Online Database ID,identifier for an article in the Encyclopedia of China Online Database,1
 OmegaWiki Defined Meaning,"""Defined Meaning"" on the site",1
 Dewey Decimal Classification,"use with qualifier ""edition (P747)"" with item value ""DDC 23"" or create new item to represent the corresponding DDC edition",1
 Libris-URI,identifier for an item in the catalogue of the Swedish National Library,1
@@ -74,4 +75,3 @@ Peakbagger area ID,"identifier for a mountain range or an area, on the peakbagge
 archINFORM location ID,identifier for a location on the archINFORM website,1
 iNaturalist place ID,identifier for a place in iNaturalist,1
 edition humboldt digital ID,"identifier for the register of biographies, places and institutions in edition humboldt digital",1
-Encyclopedia of China Online Database ID,identifier for an article in the Encyclopedia of China Online Database,1
