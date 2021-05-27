@@ -1,0 +1,7 @@
+SELECT DISTINCT ?item ?itemLabel ?itemDescription ?countryLabel WHERE {
+    ?item wdt:P31/wdt:P279* wd:Q35666 ;
+          wdt:P31 wd:Q8502 ;
+          wdt:P17 ?country .
+
+    SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}
