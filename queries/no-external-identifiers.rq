@@ -1,0 +1,13 @@
+SELECT DISTINCT ?item WHERE {
+  ?item wdt:P31/wdt:P279* wd:Q35666 .
+
+  MINUS {
+    ?item ?prop_direct [] .
+    ?prop wikibase:directClaim ?prop_direct ;
+          wikibase:propertyType wikibase:ExternalId .
+  }
+
+  SERVICE wikibase:label {
+    bd:serviceParam wikibase:language "en" .
+  }
+}

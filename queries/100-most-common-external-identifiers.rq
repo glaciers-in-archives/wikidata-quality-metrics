@@ -1,0 +1,12 @@
+SELECT ?propertyLabel ?propertyDescription (COUNT(?propertyclaim) AS ?count) WHERE {
+  ?item wdt:P31/wdt:P279* wd:Q35666 .
+
+  ?property wikibase:propertyType wikibase:ExternalId .
+  ?property wikibase:claim ?propertyclaim .
+
+  ?item ?propertyclaim [] .
+  SERVICE wikibase:label {
+    bd:serviceParam wikibase:language "en" .
+  }  
+} GROUP BY ?propertyLabel ?propertyDescription ORDER BY DESC (?count)
+LIMIT 100

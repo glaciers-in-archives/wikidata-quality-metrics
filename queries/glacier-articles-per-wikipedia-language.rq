@@ -1,0 +1,6 @@
+SELECT ?lang (COUNT(DISTINCT ?article) AS ?count) WHERE {
+  ?article schema:about/wdt:P31/wdt:P279* wd:Q35666 .
+  FILTER (SUBSTR(str(?article), 11, 15) = ".wikipedia.org/") .
+  ?article schema:inLanguage ?lang .
+} GROUP BY ?lang
+ORDER BY DESC (?count)

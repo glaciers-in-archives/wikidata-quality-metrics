@@ -1,0 +1,7 @@
+SELECT DISTINCT ?item ?itemLabel ?itemDescription ?statement_count
+WHERE {
+  ?item wdt:P31/wdt:P279* wd:Q35666 .
+  ?item wikibase:statements ?statement_count .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}
+ORDER BY DESC (?statement_count)

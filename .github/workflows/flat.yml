@@ -23,3 +23,45 @@ jobs:
           http_url: https://query.wikidata.org/sparql?query=SELECT%20DISTINCT%20%3Fitem%20%3FitemLabel%20%3FitemDescription%20%3FcountryLabel%20WHERE%20%7B%0A%20%20%20%20%3Fitem%20wdt%3AP31%2Fwdt%3AP279*%20wd%3AQ35666%20%3B%0A%20%20%20%20%20%20%20%20%20%20wdt%3AP31%20wd%3AQ8502%20%3B%0A%20%20%20%20%20%20%20%20%20%20wdt%3AP17%20%3Fcountry%20.%0A%0A%20%20%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cen%22.%20%7D%0A%7D
           downloaded_filename: glacier-and-mountain.json
           postprocess: ./postprocess.js
+      - name: Fetch data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://query.wikidata.org/sparql?query=SELECT%20%3FpropertyLabel%20%3FpropertyDescription%20(COUNT(%3Fpropertyclaim)%20AS%20%3Fcount)%20WHERE%20%7B%0A%20%20%3Fitem%20wdt%3AP31%2Fwdt%3AP279*%20wd%3AQ35666%20.%0A%0A%20%20%3Fproperty%20wikibase%3ApropertyType%20wikibase%3AExternalId%20.%0A%20%20%3Fproperty%20wikibase%3Aclaim%20%3Fpropertyclaim%20.%0A%0A%20%20%3Fitem%20%3Fpropertyclaim%20%5B%5D%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%0A%20%20%20%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%22%20.%0A%20%20%7D%20%20%0A%7D%20GROUP%20BY%20%3FpropertyLabel%20%3FpropertyDescription%20ORDER%20BY%20DESC%20(%3Fcount)%0ALIMIT%20100
+          downloaded_filename: 100-most-common-external-identifiers.json
+          postprocess: ./postprocess.js
+      - name: Fetch data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://query.wikidata.org/sparql?query=SELECT%20%3Flang%20(COUNT(DISTINCT%20%3Farticle)%20AS%20%3Fcount)%20WHERE%20%7B%0A%20%20%3Farticle%20schema%3Aabout%2Fwdt%3AP31%2Fwdt%3AP279*%20wd%3AQ35666%20.%0A%20%20FILTER%20(SUBSTR(str(%3Farticle)%2C%2011%2C%2015)%20%3D%20%22.wikipedia.org%2F%22)%20.%0A%20%20%3Farticle%20schema%3AinLanguage%20%3Flang%20.%0A%7D%20GROUP%20BY%20%3Flang%0AORDER%20BY%20DESC%20(%3Fcount)
+          downloaded_filename: glacier-articles-per-wikipedia-language.json
+          postprocess: ./postprocess.js
+      - name: Fetch data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://query.wikidata.org/sparql?query=SELECT%20DISTINCT%20%3Fitem%20%3FitemLabel%20%3FitemDescription%20%3Fstatement_count%0AWHERE%20%7B%0A%20%20%3Fitem%20wdt%3AP31%2Fwdt%3AP279*%20wd%3AQ35666%20.%0A%20%20%3Fitem%20wikibase%3Astatements%20%3Fstatement_count%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cen%22.%20%7D%0A%7D%0AORDER%20BY%20DESC%20(%3Fstatement_count)
+          downloaded_filename: glaciers-statement-count.json
+          postprocess: ./postprocess.js
+      - name: Fetch data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://query.wikidata.org/sparql?query=SELECT%20%3Fitem%20%3FitemLabel%20WHERE%20%7B%0A%20%20%3Fitem%20wdt%3AP31%2Fwdt%3AP279*%20wd%3AQ35666%20.%0A%20%20%3Fitem%20rdfs%3Alabel%20%3Flabel%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cen%22.%20%7D%0A%7D%0AGROUP%20BY%20%3Fitem%20%3FitemLabel%0AHAVING(COUNT(%3Flabel)%20%3C%202)
+          downloaded_filename: less-than-two-labels.json
+          postprocess: ./postprocess.js
+      - name: Fetch data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://query.wikidata.org/sparql?query=SELECT%20%3Fitem%20%3FitemLabel%20%3FitemDescription%20WHERE%20%7B%0A%20%20%3Fitem%20wdt%3AP31%2Fwdt%3AP279*%20wd%3AQ35666%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%0A%20%20%20%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cen%22.%0A%20%20%7D%0A%0A%20%20MINUS%20%7B%20%3Fitem%20wdt%3AP625%20%3Floc%20%7D%0A%7D
+          downloaded_filename: missing-coordinates.json
+          postprocess: ./postprocess.js
+      - name: Fetch data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://query.wikidata.org/sparql?query=SELECT%20%3Fitem%20%3FitemLabel%20%3Flinkcount%20WHERE%20%7B%0A%20%20%20%20%3Fitem%20wdt%3AP31%2Fwdt%3AP279*%20wd%3AQ35666%20.%0A%20%20%20%20%3Fitem%20wikibase%3Asitelinks%20%3Flinkcount%20.%0A%20%20FILTER%20(%3Flinkcount%20%3E%3D%201)%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%2Cen%22%20.%20%7D%0A%7D%0AGROUP%20BY%20%3Fitem%20%3FitemLabel%20%3Flinkcount%0AORDER%20BY%20DESC(%3Flinkcount)
+          downloaded_filename: most-sitelinks.json
+          postprocess: ./postprocess.js
+      - name: Fetch data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://query.wikidata.org/sparql?query=SELECT%20DISTINCT%20%3Fitem%20WHERE%20%7B%0A%20%20%3Fitem%20wdt%3AP31%2Fwdt%3AP279*%20wd%3AQ35666%20.%0A%0A%20%20MINUS%20%7B%0A%20%20%20%20%3Fitem%20%3Fprop_direct%20%5B%5D%20.%0A%20%20%20%20%3Fprop%20wikibase%3AdirectClaim%20%3Fprop_direct%20%3B%0A%20%20%20%20%20%20%20%20%20%20wikibase%3ApropertyType%20wikibase%3AExternalId%20.%0A%20%20%7D%0A%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%0A%20%20%20%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%22%20.%0A%20%20%7D%0A%7D
+          downloaded_filename: no-external-identifiers.json
+          postprocess: ./postprocess.js
