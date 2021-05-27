@@ -1,4 +1,4 @@
-SELECT DISTINCT ?item WHERE {
+SELECT DISTINCT ?item ?itemLabel ?itemDescription WHERE {
   ?item wdt:P31/wdt:P279* wd:Q35666 .
 
   MINUS {

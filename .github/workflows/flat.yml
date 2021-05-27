@@ -62,6 +62,6 @@ jobs:
       - name: Fetch data
         uses: githubocto/flat@v3
         with:
-          http_url: https://query.wikidata.org/sparql?query=SELECT%20DISTINCT%20%3Fitem%20WHERE%20%7B%0A%20%20%3Fitem%20wdt%3AP31%2Fwdt%3AP279*%20wd%3AQ35666%20.%0A%0A%20%20MINUS%20%7B%0A%20%20%20%20%3Fitem%20%3Fprop_direct%20%5B%5D%20.%0A%20%20%20%20%3Fprop%20wikibase%3AdirectClaim%20%3Fprop_direct%20%3B%0A%20%20%20%20%20%20%20%20%20%20wikibase%3ApropertyType%20wikibase%3AExternalId%20.%0A%20%20%7D%0A%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%0A%20%20%20%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%22%20.%0A%20%20%7D%0A%7D
+          http_url: https://query.wikidata.org/sparql?query=SELECT%20DISTINCT%20%3Fitem%20%3FitemLabel%20%3FitemDescription%20WHERE%20%7B%0A%20%20%3Fitem%20wdt%3AP31%2Fwdt%3AP279*%20wd%3AQ35666%20.%0A%0A%20%20MINUS%20%7B%0A%20%20%20%20%3Fitem%20%3Fprop_direct%20%5B%5D%20.%0A%20%20%20%20%3Fprop%20wikibase%3AdirectClaim%20%3Fprop_direct%20%3B%0A%20%20%20%20%20%20%20%20%20%20wikibase%3ApropertyType%20wikibase%3AExternalId%20.%0A%20%20%7D%0A%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%0A%20%20%20%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%22%20.%0A%20%20%7D%0A%7D
           downloaded_filename: no-external-identifiers.json
           postprocess: ./postprocess.js
