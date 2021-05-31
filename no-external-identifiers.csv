@@ -135,6 +135,7 @@ http://www.wikidata.org/entity/Q64141592,Barkley Ridge
 http://www.wikidata.org/entity/Q64141580,Adams Inlet
 http://www.wikidata.org/entity/Q63982845,Bradfield Canal
 http://www.wikidata.org/entity/Q64141557,Avalanche Canyon
+http://www.wikidata.org/entity/Q64141925,Black Glacier
 http://www.wikidata.org/entity/Q63982857,Mount Ethel
 http://www.wikidata.org/entity/Q64141619,Adams Glacier
 http://www.wikidata.org/entity/Q63983321,Far North Glacier
@@ -160,7 +161,6 @@ http://www.wikidata.org/entity/Q63982843,Spatsizi River
 http://www.wikidata.org/entity/Q64141567,Bailey Range
 http://www.wikidata.org/entity/Q64141386,Ventisquero Brujo
 http://www.wikidata.org/entity/Q64141901,Bravo (Rivera) Glacier
-http://www.wikidata.org/entity/Q64141925,Black Glacier (Washington)
 http://www.wikidata.org/entity/Q64141610,Agpat Glacier
 http://www.wikidata.org/entity/Q64141380,Amarillo Glacier
 http://www.wikidata.org/entity/Q64141898,Benito Glacier
@@ -477,7 +477,6 @@ http://www.wikidata.org/entity/Q64143724,Mount Jackson Glacier
 http://www.wikidata.org/entity/Q64143242,Great North Glacier
 http://www.wikidata.org/entity/Q64143271,Haydon Peak
 http://www.wikidata.org/entity/Q64143317,Godley Glacier
-http://www.wikidata.org/entity/Q64143731,Iceberg Lake (Montana)
 http://www.wikidata.org/entity/Q64143730,Logging Mountain
 http://www.wikidata.org/entity/Q64143726,Medicine Owl Lake
 http://www.wikidata.org/entity/Q64143273,Head Glacier
@@ -492,6 +491,7 @@ http://www.wikidata.org/entity/Q64143519,Nevado Humantay
 http://www.wikidata.org/entity/Q64143741,Hugh Miller Glacier
 http://www.wikidata.org/entity/Q64143691,Igly Tuyuksu Glacier
 http://www.wikidata.org/entity/Q64143615,Lyngmark Bugt
+http://www.wikidata.org/entity/Q64143731,Iceberg Lake
 http://www.wikidata.org/entity/Q64143706,Jenny Lake
 http://www.wikidata.org/entity/Q64143694,Korzhenevskiy Glacier
 http://www.wikidata.org/entity/Q64143702,Matterhorn Peak
@@ -551,7 +551,6 @@ http://www.wikidata.org/entity/Q64144124,Mount Stimson
 http://www.wikidata.org/entity/Q64144117,Mount Hinman
 http://www.wikidata.org/entity/Q64143840,James Robert Glacier
 http://www.wikidata.org/entity/Q64144076,Ober Gabelhorn
-http://www.wikidata.org/entity/Q64143951,Mount Cook (New Zealand)
 http://www.wikidata.org/entity/Q64143890,Lake Superior
 http://www.wikidata.org/entity/Q64143964,Mount John Jay
 http://www.wikidata.org/entity/Q64143910,Mattertal
@@ -589,6 +588,7 @@ http://www.wikidata.org/entity/Q64143797,Lake Fork Crescent River
 http://www.wikidata.org/entity/Q64143817,Kuskokwim River
 http://www.wikidata.org/entity/Q64143925,Lhotse Shar / Imja Glacier
 http://www.wikidata.org/entity/Q64144020,Ngojumba Glacier
+http://www.wikidata.org/entity/Q64143951,Mount Cook
 http://www.wikidata.org/entity/Q64143829,Jarvis Creek
 http://www.wikidata.org/entity/Q64144090,Monte Rosso
 http://www.wikidata.org/entity/Q64144121,Mount Deception
@@ -643,7 +643,6 @@ http://www.wikidata.org/entity/Q64144385,Salcantay East Glacier
 http://www.wikidata.org/entity/Q64144296,Morris Jesup Glacier
 http://www.wikidata.org/entity/Q64144501,Ross Island (Antarctica)
 http://www.wikidata.org/entity/Q64144397,Pared Sur Glacier
-http://www.wikidata.org/entity/Q64144178,Mud Glacier (British Columbia)
 http://www.wikidata.org/entity/Q64144151,Miche Wabun Lake
 http://www.wikidata.org/entity/Q64144227,Mount Bona
 http://www.wikidata.org/entity/Q64144152,Mount Spickard
@@ -699,6 +698,7 @@ http://www.wikidata.org/entity/Q64144173,Oweegee Peak
 http://www.wikidata.org/entity/Q64144248,Nutzotin Mountains
 http://www.wikidata.org/entity/Q64144242,Mount Jarvis
 http://www.wikidata.org/entity/Q64144223,Mount Hogan
+http://www.wikidata.org/entity/Q64144178,Mud Glacier
 http://www.wikidata.org/entity/Q64144847,Zongo Glacier
 http://www.wikidata.org/entity/Q64144645,Prairie Lake
 http://www.wikidata.org/entity/Q64144616,Smith Lake
@@ -776,7 +776,6 @@ http://www.wikidata.org/entity/Q64144711,Radcliffe Glacier
 http://www.wikidata.org/entity/Q64144699,Silver Glacier (Alaska)
 http://www.wikidata.org/entity/Q64144725,Slana River
 http://www.wikidata.org/entity/Q64144580,Sonielem Lake
-http://www.wikidata.org/entity/Q64144611,Silver Glacier (Washington)
 http://www.wikidata.org/entity/Q64144628,Sawyer Glacier
 http://www.wikidata.org/entity/Q64144646,Rendu Glacier
 http://www.wikidata.org/entity/Q64144649,Rodman Glacier
@@ -792,6 +791,7 @@ http://www.wikidata.org/entity/Q64144684,Redoubt Volcano
 http://www.wikidata.org/entity/Q64144680,Seward Glacier
 http://www.wikidata.org/entity/Q64144705,Shamrock Glacier
 http://www.wikidata.org/entity/Q64144513,Parlung No. 94
+http://www.wikidata.org/entity/Q64144611,Silver Glacier
 http://www.wikidata.org/entity/Q64144677,Seal River
 http://www.wikidata.org/entity/Q64144712,Snowcap Mountain
 http://www.wikidata.org/entity/Q64144582,Schneeferner North Glacier
