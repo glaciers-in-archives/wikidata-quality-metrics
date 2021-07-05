@@ -1,28 +1,28 @@
 propertyLabel,propertyDescription,count
-GeoNames ID,identifier in the GeoNames geographical database,6550
-Freebase ID,"identifier for a page in the Freebase database. Format: ""/m/0"" followed by 2 to 7 characters. For those starting with ""/g/"", use Google Knowledge Graph identifier (P2671)",2885
+GeoNames ID,identifier in the GeoNames geographical database,6551
+Freebase ID,"identifier for a page in the Freebase database. Format: ""/m/0"" followed by 2 to 7 characters. For those starting with ""/g/"", use Google Knowledge Graph identifier (P2671)",2886
 GLIMS ID,identifier assigned to glaciers by the Global Land Ice Measurements from Space service at NSIDC,2421
 SCAR Composite Gazetteer place ID,identifier in the international composite gazetteer for Antarctica run by the Scientific Committee on Antarctic Research,2109
 GNIS Antarctica ID,"identifier for geographic objects in Antarctica, used in the US Geological Survey's Geographic Names Information System. For U.S. IDs, use Property:P590",1790
 GNS Unique Feature ID,identifier for geographic entities according to the National Geospatial-Intelligence Agency's GEOnet Names Server,1559
 Google Knowledge Graph ID,"identifier for Google Knowledge Graph API (starting with ""/g/""). IDs starting with ""/m/"" are Freebase IDs (P646)",1380
 Norwegian Polar Institute place name ID,"identifier of a location in the Norwegian Polar Institute's ""Place names in Norwegian polar areas"" database",667
-GNIS ID,"identifier for geographic objects in the US issued by the USGS. For Antarctica, use Property:P804",513
+GNIS ID,"identifier for geographic objects in the US issued by the USGS. For Antarctica, use Property:P804",514
 World Glacier Inventory ID,identifier in the World Glacier Inventory database,467
 Australian Antarctic Gazetteer ID,"identifier of a place, in the Australian Antarctic Gazetteer",327
-New Zealand Gazetteer place ID,identifier for a place in the New Zealand Gazetteer,231
+New Zealand Gazetteer place ID,identifier for a place in the New Zealand Gazetteer,236
 VIAF ID,identifier for the Virtual International Authority File database [format: up to 22 digits],196
 Bulgarian Antarctic Gazetteer ID,identifier of a location in Antarctica in the Bulgarian Antarctic Gazetteer,188
 Swedish Glaciers ID,identifier for glaciers in Sweden,159
-Getty Thesaurus of Geographic Names ID,identifier in the Getty Thesaurus of Geographic Names,116
-SSR place name number,identifier for a place name in the Norwegian Mapping Authority's place name registry Sentralt stedsnavnregister (SSR),101
+Getty Thesaurus of Geographic Names ID,identifier in the Getty Thesaurus of Geographic Names,117
+SSR place name number,identifier for a place name in the Norwegian Mapping Authority's place name registry Sentralt stedsnavnregister (SSR),102
 OpenStreetMap relation ID,identifier for a relation in OpenStreetMap,86
 Antarctica NZ Digital Asset Manager,identifier in the composite gazetteer for Antarctica run New Zealand,84
 GLAMOS glacier ID,identifier for a Swiss glacier on the GLAMOS website,73
 Library of Congress authority ID,"Library of Congress name authority (persons, families, corporate bodies, events, places, works and expressions) and subject authority identifier [Format: 1-2 specific letters followed by 8-10 digits (see regex). For manifestations, use P1144]",69
 Gridabase glacier ID,identifier for a glacier on the Glacier Risks Data Base website,68
-Encyclopædia Britannica Online ID,identifer for an article in the online version of Encyclopædia Britannica,57
-Gran Enciclopèdia Catalana ID,identifier for an item in the Gran Enciclopèdia Catalana,56
+Encyclopædia Britannica Online ID,identifer for an article in the online version of Encyclopædia Britannica,58
+Gran Enciclopèdia Catalana ID,identifier for an item in the Gran Enciclopèdia Catalana,57
 BabelNet ID,ID in BabelNet encyclopedic dictionary,51
 GND ID,"identifier from an international authority file of names, subjects, and organizations (please don't use type n = name, disambiguation) - Deutsche Nationalbibliothek",33
 Great Russian Encyclopedia Online ID,identifier for an entry on the official website of the Great Russian Encyclopedia,32
@@ -41,8 +41,8 @@ Bavarian geotope ID,"identifier for geotopes in Bavaria (Germany), issued by the
 Microsoft Academic ID,identifier for an object or topic in the Microsoft Academic Graph,5
 Washington Place Names ID,numerical identifier for a place in Washington Place Names,5
 HDS ID,"identifier in HDS/HLS/DHS/DSS: Historical Dictionary of Switzerland (Q642074), a national encyclopedia",4
-Smithsonian volcano ID,identifier of volcano in the Smithsonian Global Volcanism Program. Format: 6 digits.,4
 VOGRIPA ID,identifier for a volcano on the Volcano Global Risk Identification and Analysis Project website,4
+Smithsonian volcano ID,identifier of volcano in the Smithsonian Global Volcanism Program. Format: 6 digits.,4
 National Natural Landmarks site ID,identifier an American National Natural Landmark on the United States' National Park Service website,3
 National Park Service place ID,identifier for a place in the United States on the National Park Service website,3
 YouTube video ID,"identifier of a video on YouTube; qualify trailers with ""object has role"" (P3831)=""trailer"" (Q622550). For channels use P2397; for playlists use P4300",3
@@ -56,25 +56,25 @@ FAST ID,authority control identifier in WorldCat's “FAST Linked Data” author
 ortsnamen.ch ID,identifier for a toponym/geographical object on ortsnamen.ch,1
 Wiki Loves Monuments ID,unique ID for the monuments included in Wiki Loves Monument's national lists,1
 Facebook Places ID,identifier for a place in Facebook,1
-Brockhaus Enzyklopädie online ID,identifier for an article in the online version of Brockhaus Enzyklopädie,1
 Lexicon istoric retic ID,"identifier in the Lexicon istoric retic (LIR), Romansh variant of Historical Dictionary of Switzerland",1
+Brockhaus Enzyklopädie online ID,identifier for an article in the online version of Brockhaus Enzyklopädie,1
 Who's on First ID,identifier from the Who's on First database,1
 PLWABN ID,"National Library of Poland record no. identifier. Format: ""981"", followed by 8 digits, then ending with ""05606""",1
-Lokalhistoriewiki.no ID,identifier for an article in lokalhistoriewiki.no,1
 Curlie ID,category path at Open Directory Project,1
+Lokalhistoriewiki.no ID,identifier for an article in lokalhistoriewiki.no,1
 Interlingual Index ID,,1
 WordNet 3.1 Synset ID,Synset identifier in Princeton’s WordNet Version 3.1,1
+Google Maps Customer ID,"in Google Maps, Customer identifier for a place",1
 OBO Gazetteer ID,identifier from the Open Bio Ontologies Gazetteer (GAZ) (without prefix),1
 Natural Atlas ID,identifier for a place on the Natural Atlas website,1
-Hiking Project site ID,identifier for a remarkable site (a 'gem') on the Hiking Project website,1
-Google Maps Customer ID,"in Google Maps, Customer identifier for a place",1
 MinDat Locality ID,ID of the minerals locality in MinDat database,1
-Encyclopedia of China Online Database ID,identifier for an article in the Encyclopedia of China Online Database,1
+Hiking Project site ID,identifier for a remarkable site (a 'gem') on the Hiking Project website,1
 edition humboldt digital ID,"identifier for the register of biographies, places and institutions in edition humboldt digital",1
+Encyclopedia of China Online Database ID,identifier for an article in the Encyclopedia of China Online Database,1
 Bivouac.com mountain ID,"identifier of a North American mountain, at Bivouac.com",1
 OmegaWiki Defined Meaning,"""Defined Meaning"" on the site",1
 Dewey Decimal Classification,"use with qualifier ""edition (P747)"" with item value ""DDC 23"" or create new item to represent the corresponding DDC edition",1
 Libris-URI,identifier for an item in the catalogue of the Swedish National Library,1
 archINFORM location ID,identifier for a location on the archINFORM website,1
-Peakbagger area ID,"identifier for a mountain range or an area, on the peakbagger.com website",1
 iNaturalist place ID,identifier for a place in iNaturalist,1
+Peakbagger area ID,"identifier for a mountain range or an area, on the peakbagger.com website",1
