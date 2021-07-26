@@ -26,7 +26,7 @@ Gran Enciclopèdia Catalana ID,identifier for an item in the Gran Enciclopèdia 
 BabelNet ID,ID in BabelNet encyclopedic dictionary,51
 GND ID,"identifier from an international authority file of names, subjects, and organizations (please don't use type n = name, disambiguation) - Deutsche Nationalbibliothek",33
 Great Russian Encyclopedia Online ID,identifier for an entry on the official website of the Great Russian Encyclopedia,32
-BC Geographical Names ID,Unique ID of the BC Geographical Names,20
+BC Geographical Names ID,Unique ID of the BC Geographical Names,21
 CGNDB Unique ID,identifier(s) for a geographical feature contained in the Canadian Geographical Names Data Base (CGNDB),14
 Store norske leksikon ID,identifier of an article in the online encyclopedia snl.no,11
 Bibliothèque nationale de France ID,"identifier for the subject issued by BNF (Bibliothèque nationale de France). Format: 8 digits followed by a check-digit or letter, do not include the initial 'cb'.",8
@@ -53,22 +53,23 @@ SummitPost ID,identifer of a mountain or other location on SummitPost,2
 NE.se ID,ID of article on the Swedish Nationalencyklopedin (NE.se) site,2
 National Library of Israel ID,identifier for authority control used at the National Library of Israel,2
 FAST ID,authority control identifier in WorldCat's “FAST Linked Data” authority file,2
-Wiki Loves Monuments ID,unique ID for the monuments included in Wiki Loves Monument's national lists,1
 ortsnamen.ch ID,identifier for a toponym/geographical object on ortsnamen.ch,1
-Facebook Places ID,identifier for a place in Facebook,1
+Wiki Loves Monuments ID,unique ID for the monuments included in Wiki Loves Monument's national lists,1
 Lexicon istoric retic ID,"identifier in the Lexicon istoric retic (LIR), Romansh variant of Historical Dictionary of Switzerland",1
+Facebook Places ID,identifier for a place in Facebook,1
 Brockhaus Enzyklopädie online ID,identifier for an article in the online version of Brockhaus Enzyklopädie,1
 Who's on First ID,identifier from the Who's on First database,1
-Lokalhistoriewiki.no ID,identifier for an article in lokalhistoriewiki.no,1
 PLWABN ID,"National Library of Poland record no. identifier. Format: ""981"", followed by 8 digits, then ending with ""05606""",1
+Lokalhistoriewiki.no ID,identifier for an article in lokalhistoriewiki.no,1
 Interlingual Index ID,,1
 WordNet 3.1 Synset ID,Synset identifier in Princeton’s WordNet Version 3.1,1
 Curlie ID,category path at Open Directory Project,1
 OBO Gazetteer ID,identifier from the Open Bio Ontologies Gazetteer (GAZ) (without prefix),1
 Natural Atlas ID,identifier for a place on the Natural Atlas website,1
-Google Maps Customer ID,"in Google Maps, Customer identifier for a place",1
 MinDat Locality ID,ID of the minerals locality in MinDat database,1
 Hiking Project site ID,identifier for a remarkable site (a 'gem') on the Hiking Project website,1
+Google Maps Customer ID,"in Google Maps, Customer identifier for a place",1
+Bivouac.com mountain ID,"identifier of a North American mountain, at Bivouac.com",1
 OmegaWiki Defined Meaning,"""Defined Meaning"" on the site",1
 Dewey Decimal Classification,"use with qualifier ""edition (P747)"" with item value ""DDC 23"" or create new item to represent the corresponding DDC edition",1
 Libris-URI,identifier for an item in the catalogue of the Swedish National Library,1
@@ -77,4 +78,3 @@ archINFORM location ID,identifier for a location on the archINFORM website,1
 iNaturalist place ID,identifier for a place in iNaturalist,1
 edition humboldt digital ID,"identifier for the register of biographies, places and institutions in edition humboldt digital",1
 Encyclopedia of China Online Database ID,identifier for an article in the Encyclopedia of China Online Database,1
-Bivouac.com mountain ID,"identifier of a North American mountain, at Bivouac.com",1
