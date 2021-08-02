@@ -507,6 +507,7 @@ http://www.wikidata.org/entity/Q64144039,Mount Dana
 http://www.wikidata.org/entity/Q64144041,Mount Ararat
 http://www.wikidata.org/entity/Q64144017,Nevados Chopicallqui
 http://www.wikidata.org/entity/Q64143945,Nevado Salcantay
+http://www.wikidata.org/entity/Q64144140,Mineral Creek
 http://www.wikidata.org/entity/Q64143965,Mount Fawcett
 http://www.wikidata.org/entity/Q64143803,Kings Bay
 http://www.wikidata.org/entity/Q64143793,Icy Bay
@@ -556,7 +557,6 @@ http://www.wikidata.org/entity/Q64143890,Lake Superior
 http://www.wikidata.org/entity/Q64143964,Mount John Jay
 http://www.wikidata.org/entity/Q64143910,Mattertal
 http://www.wikidata.org/entity/Q64143787,Kaliakh River
-http://www.wikidata.org/entity/Q64143808,Logan Glacier (Alaska)
 http://www.wikidata.org/entity/Q64143891,Lava Fork Area
 http://www.wikidata.org/entity/Q64143927,Kyimoshung Glacier
 http://www.wikidata.org/entity/Q64143928,Lirung Glacier
@@ -602,7 +602,6 @@ http://www.wikidata.org/entity/Q64143963,Moreno Glacier
 http://www.wikidata.org/entity/Q64144291,Nansen Glacier
 http://www.wikidata.org/entity/Q64144196,Muir Inlet
 http://www.wikidata.org/entity/Q64144279,Mount Chamberlin
-http://www.wikidata.org/entity/Q64144140,Mineral Creek
 http://www.wikidata.org/entity/Q64144190,Mount Merriam
 http://www.wikidata.org/entity/Q64144240,Mount Wrangell
 http://www.wikidata.org/entity/Q64144254,Mount Foraker
@@ -647,6 +646,7 @@ http://www.wikidata.org/entity/Q64144227,Mount Bona
 http://www.wikidata.org/entity/Q64144152,Mount Spickard
 http://www.wikidata.org/entity/Q64144504,Pastorouri Glacier
 http://www.wikidata.org/entity/Q64144506,Popocatépetl Glacier
+http://www.wikidata.org/entity/Q64144511,Rikha Samba Glacier
 http://www.wikidata.org/entity/Q64144293,Moltke Glacier
 http://www.wikidata.org/entity/Q64144158,Nass River
 http://www.wikidata.org/entity/Q64144292,Mohn Glacier
@@ -707,6 +707,7 @@ http://www.wikidata.org/entity/Q64144678,Seward
 http://www.wikidata.org/entity/Q64144552,Silsersee
 http://www.wikidata.org/entity/Q64144690,Prince William Sound
 http://www.wikidata.org/entity/Q64144681,Saint Elias Mountains
+http://www.wikidata.org/entity/Q64144864,University Peak
 http://www.wikidata.org/entity/Q64144531,Saint Lawrence River
 http://www.wikidata.org/entity/Q64144742,Søndre Strømfjord
 http://www.wikidata.org/entity/Q64144641,Rendu Inlet
@@ -737,7 +738,6 @@ http://www.wikidata.org/entity/Q64144585,Royal Basin
 http://www.wikidata.org/entity/Q64144635,Reid Glacier (Alaska)
 http://www.wikidata.org/entity/Q64144722,Rainy Pass
 http://www.wikidata.org/entity/Q64144632,Port Snettisham
-http://www.wikidata.org/entity/Q64144511,Rikha Samba Glacier
 http://www.wikidata.org/entity/Q64144653,Point Manby
 http://www.wikidata.org/entity/Q64144660,Point Riou
 http://www.wikidata.org/entity/Q64144601,Saint Mary Lake
@@ -800,6 +800,7 @@ http://www.wikidata.org/entity/Q64144751,Peary Glacier
 http://www.wikidata.org/entity/Q64144522,Snowy Range
 http://www.wikidata.org/entity/Q64144669,Pulpito Del Diablo Glacier
 http://www.wikidata.org/entity/Q96593857,Südliches Malhamkees
+http://www.wikidata.org/entity/Q96593879,Gubachkees
 http://www.wikidata.org/entity/Q64144882,Wells Creek
 http://www.wikidata.org/entity/Q64145255,Thomas Bay
 http://www.wikidata.org/entity/Q88893630,Punchbowl Glacier
@@ -810,7 +811,6 @@ http://www.wikidata.org/entity/Q64145211,Summit Crater
 http://www.wikidata.org/entity/Q64145287,Tarr Inlet
 http://www.wikidata.org/entity/Q64145245,Unuk River
 http://www.wikidata.org/entity/Q64144884,Teton Range
-http://www.wikidata.org/entity/Q64144864,University Peak
 http://www.wikidata.org/entity/Q64145118,Turtmanngletscher
 http://www.wikidata.org/entity/Q64145162,Steingletscher
 http://www.wikidata.org/entity/Q64145297,Trout Lake
@@ -899,9 +899,8 @@ http://www.wikidata.org/entity/Q89482357,Hari parbat Glacier
 http://www.wikidata.org/entity/Q64144968,Zadezan Glacier
 http://www.wikidata.org/entity/Q64144877,Urumqi Glacier
 http://www.wikidata.org/entity/Q64145333,Upnuk Lake
-http://www.wikidata.org/entity/Q107597108,tropical glaciers
+http://www.wikidata.org/entity/Q107649540,Q107649540
 http://www.wikidata.org/entity/Q106520533,Larsen B Ice Shelf
-http://www.wikidata.org/entity/Q96593879,Gubachkees
 http://www.wikidata.org/entity/Q104874896,Alpeiner Ferner
 http://www.wikidata.org/entity/Q101245627,Gara
 http://www.wikidata.org/entity/Q106608793,Thulagi glacier
@@ -932,6 +931,7 @@ http://www.wikidata.org/entity/Q101245595,Raikana Glacier
 http://www.wikidata.org/entity/Q101245638,Shirwali Glacier
 http://www.wikidata.org/entity/Q101245609,Vasuki Glacier
 http://www.wikidata.org/entity/Q100319346,Vadret da Radönt
+http://www.wikidata.org/entity/Q107597108,tropical glaciers
 http://www.wikidata.org/entity/Q101244719,Bhagirathi Kharak Glacier
 http://www.wikidata.org/entity/Q101245582,Dokriani Glacier
 http://www.wikidata.org/entity/Q101245615,Chandra Nahan Glacier
