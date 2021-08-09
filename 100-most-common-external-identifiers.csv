@@ -5,12 +5,12 @@ GLIMS ID,identifier assigned to glaciers by the Global Land Ice Measurements fro
 SCAR Composite Gazetteer place ID,identifier in the international composite gazetteer for Antarctica run by the Scientific Committee on Antarctic Research,2110
 GNIS Antarctica ID,"identifier for geographic objects in Antarctica, used in the US Geological Survey's Geographic Names Information System. For U.S. IDs, use Property:P590",1791
 GNS Unique Feature ID,identifier for geographic entities according to the National Geospatial-Intelligence Agency's GEOnet Names Server,1557
-Google Knowledge Graph ID,"identifier for Google Knowledge Graph API (starting with ""/g/""). IDs starting with ""/m/"" are Freebase IDs (P646)",1380
+Google Knowledge Graph ID,"identifier for Google Knowledge Graph API (starting with ""/g/""). IDs starting with ""/m/"" are Freebase IDs (P646)",1381
 Norwegian Polar Institute place name ID,"identifier of a location in the Norwegian Polar Institute's ""Place names in Norwegian polar areas"" database",667
 GNIS ID,"identifier for geographic objects in the US issued by the USGS. For Antarctica, use Property:P804",514
-World Glacier Inventory ID,identifier in the World Glacier Inventory database,468
+World Glacier Inventory ID,identifier in the World Glacier Inventory database,469
 Australian Antarctic Gazetteer ID,"identifier of a place, in the Australian Antarctic Gazetteer",327
-New Zealand Gazetteer place ID,identifier for a place in the New Zealand Gazetteer,257
+New Zealand Gazetteer place ID,identifier for a place in the New Zealand Gazetteer,259
 VIAF ID,identifier for the Virtual International Authority File database [format: up to 22 digits],196
 Bulgarian Antarctic Gazetteer ID,identifier of a location in Antarctica in the Bulgarian Antarctic Gazetteer,188
 Swedish Glaciers ID,identifier for glaciers in Sweden,159
@@ -53,22 +53,22 @@ SummitPost ID,identifer of a mountain or other location on SummitPost,2
 NE.se ID,ID of article on the Swedish Nationalencyklopedin (NE.se) site,2
 National Library of Israel ID,identifier for authority control used at the National Library of Israel,2
 FAST ID,authority control identifier in WorldCat's “FAST Linked Data” authority file,2
-Wiki Loves Monuments ID,unique ID for the monuments included in Wiki Loves Monument's national lists,1
 ortsnamen.ch ID,identifier for a toponym/geographical object on ortsnamen.ch,1
-Lexicon istoric retic ID,"identifier in the Lexicon istoric retic (LIR), Romansh variant of Historical Dictionary of Switzerland",1
+Wiki Loves Monuments ID,unique ID for the monuments included in Wiki Loves Monument's national lists,1
 Facebook Places ID,identifier for a place in Facebook,1
+Lexicon istoric retic ID,"identifier in the Lexicon istoric retic (LIR), Romansh variant of Historical Dictionary of Switzerland",1
 Brockhaus Enzyklopädie online ID,identifier for an article in the online version of Brockhaus Enzyklopädie,1
 Who's on First ID,identifier from the Who's on First database,1
 Lokalhistoriewiki.no ID,identifier for an article in lokalhistoriewiki.no,1
-Interlingual Index ID,,1
 PLWABN ID,"National Library of Poland record no. identifier. Format: ""981"", followed by 8 digits, then ending with ""05606""",1
-WordNet 3.1 Synset ID,Synset identifier in Princeton’s WordNet Version 3.1,1
 Curlie ID,category path at Open Directory Project,1
+Interlingual Index ID,,1
+WordNet 3.1 Synset ID,Synset identifier in Princeton’s WordNet Version 3.1,1
 OBO Gazetteer ID,identifier from the Open Bio Ontologies Gazetteer (GAZ) (without prefix),1
 Natural Atlas ID,identifier for a place on the Natural Atlas website,1
 Google Maps Customer ID,"in Google Maps, Customer identifier for a place",1
-MinDat Locality ID,ID of the minerals locality in MinDat database,1
 Hiking Project site ID,identifier for a remarkable site (a 'gem') on the Hiking Project website,1
+MinDat Locality ID,ID of the minerals locality in MinDat database,1
 edition humboldt digital ID,"identifier for the register of biographies, places and institutions in edition humboldt digital",1
 Encyclopedia of China Online Database ID,identifier for an article in the Encyclopedia of China Online Database,1
 Bivouac.com mountain ID,"identifier of a North American mountain, at Bivouac.com",1
