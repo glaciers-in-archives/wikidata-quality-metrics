@@ -1,71 +1,38 @@
 item,itemLabel
 http://www.wikidata.org/entity/Q1367574,Q1367574
+http://www.wikidata.org/entity/Q2566668,Q2566668
 http://www.wikidata.org/entity/Q3593695,Q3593695
 http://www.wikidata.org/entity/Q1581341,Q1581341
 http://www.wikidata.org/entity/Q1606802,Q1606802
 http://www.wikidata.org/entity/Q1618704,Q1618704
-http://www.wikidata.org/entity/Q2566668,Q2566668
+http://www.wikidata.org/entity/Q1123202,Q1123202
 http://www.wikidata.org/entity/Q3108319,Q3108319
 http://www.wikidata.org/entity/Q3108322,Q3108322
-http://www.wikidata.org/entity/Q2032442,Q2032442
-http://www.wikidata.org/entity/Q1123202,Q1123202
 http://www.wikidata.org/entity/Q4084705,Q4084705
 http://www.wikidata.org/entity/Q4257120,Q4257120
-http://www.wikidata.org/entity/Q6464272,La Paloma Glacier
-http://www.wikidata.org/entity/Q21619442,Q21619442
-http://www.wikidata.org/entity/Q21619443,Q21619443
-http://www.wikidata.org/entity/Q21619444,Q21619444
+http://www.wikidata.org/entity/Q2032442,Q2032442
 http://www.wikidata.org/entity/Q4430011,Q4430011
 http://www.wikidata.org/entity/Q4470360,Q4470360
+http://www.wikidata.org/entity/Q7986618,West Svartisen Ice-cap
 http://www.wikidata.org/entity/Q11829297,Kong Oscar Glacier
-http://www.wikidata.org/entity/Q6749591,Maniitsoq ice sheet
-http://www.wikidata.org/entity/Q4741952,Ambulapcha Glacier
-http://www.wikidata.org/entity/Q11830562,Kuskulana Glacier
-http://www.wikidata.org/entity/Q4782328,Apusiaajik Glacier
-http://www.wikidata.org/entity/Q11830744,Polychrome Glaciers
-http://www.wikidata.org/entity/Q22343129,Q22343129
-http://www.wikidata.org/entity/Q6816566,Mendel Glacier
-http://www.wikidata.org/entity/Q11831757,Klondike Glacier
-http://www.wikidata.org/entity/Q11898761,Q11898761
-http://www.wikidata.org/entity/Q11960171,Q11960171
-http://www.wikidata.org/entity/Q11965856,Q11965856
-http://www.wikidata.org/entity/Q11965859,Q11965859
-http://www.wikidata.org/entity/Q11965892,Q11965892
-http://www.wikidata.org/entity/Q11966124,Q11966124
-http://www.wikidata.org/entity/Q11966507,Q11966507
-http://www.wikidata.org/entity/Q11968823,Q11968823
-http://www.wikidata.org/entity/Q11969012,Q11969012
-http://www.wikidata.org/entity/Q11969205,Q11969205
-http://www.wikidata.org/entity/Q11969600,Q11969600
-http://www.wikidata.org/entity/Q11969811,Q11969811
-http://www.wikidata.org/entity/Q11970248,Q11970248
-http://www.wikidata.org/entity/Q7069732,Nunatakassaup Sermia
-http://www.wikidata.org/entity/Q7069734,Nunatakassaup Sermia
-http://www.wikidata.org/entity/Q11976476,Q11976476
-http://www.wikidata.org/entity/Q11977613,Q11977613
-http://www.wikidata.org/entity/Q11979979,Q11979979
-http://www.wikidata.org/entity/Q11980021,Q11980021
-http://www.wikidata.org/entity/Q11982715,Q11982715
-http://www.wikidata.org/entity/Q11983955,Q11983955
-http://www.wikidata.org/entity/Q11986550,Q11986550
 http://www.wikidata.org/entity/Q11986983,Q11986983
-http://www.wikidata.org/entity/Q24189612,Douglas Glacier
-http://www.wikidata.org/entity/Q24229383,Snowbird Glacier
-http://www.wikidata.org/entity/Q24259265,Sphinx Glacier
 http://www.wikidata.org/entity/Q11994847,Q11994847
 http://www.wikidata.org/entity/Q11996347,Q11996347
 http://www.wikidata.org/entity/Q11998584,Q11998584
+http://www.wikidata.org/entity/Q6464272,La Paloma Glacier
+http://www.wikidata.org/entity/Q11830562,Kuskulana Glacier
 http://www.wikidata.org/entity/Q12001231,Q12001231
 http://www.wikidata.org/entity/Q12008237,Q12008237
-http://www.wikidata.org/entity/Q7164426,Penny Royal Glacier
+http://www.wikidata.org/entity/Q11830744,Polychrome Glaciers
+http://www.wikidata.org/entity/Q4741952,Ambulapcha Glacier
 http://www.wikidata.org/entity/Q12010141,Q12010141
 http://www.wikidata.org/entity/Q12010345,Q12010345
 http://www.wikidata.org/entity/Q12010734,Q12010734
 http://www.wikidata.org/entity/Q12718570,Q12718570
 http://www.wikidata.org/entity/Q12719006,Q12719006
 http://www.wikidata.org/entity/Q12719452,Q12719452
-http://www.wikidata.org/entity/Q13165279,Q13165279
-http://www.wikidata.org/entity/Q13165848,Q13165848
+http://www.wikidata.org/entity/Q4782328,Apusiaajik Glacier
+http://www.wikidata.org/entity/Q11831757,Klondike Glacier
 http://www.wikidata.org/entity/Q13165942,Q13165942
 http://www.wikidata.org/entity/Q13166117,Q13166117
 http://www.wikidata.org/entity/Q13166218,Q13166218
@@ -88,48 +55,51 @@ http://www.wikidata.org/entity/Q13171572,Q13171572
 http://www.wikidata.org/entity/Q13171573,Q13171573
 http://www.wikidata.org/entity/Q13171686,Q13171686
 http://www.wikidata.org/entity/Q13171781,Q13171781
-http://www.wikidata.org/entity/Q7286863,Ralam Glacier
+http://www.wikidata.org/entity/Q11898761,Q11898761
+http://www.wikidata.org/entity/Q11960171,Q11960171
+http://www.wikidata.org/entity/Q6749591,Maniitsoq ice sheet
 http://www.wikidata.org/entity/Q14713875,Queest-alb Glacier
 http://www.wikidata.org/entity/Q14713916,Table Mountain Glacier
 http://www.wikidata.org/entity/Q15111655,Q15111655
 http://www.wikidata.org/entity/Q15132540,Q15132540
 http://www.wikidata.org/entity/Q15215163,Dry Creek Glacier
+http://www.wikidata.org/entity/Q11965856,Q11965856
+http://www.wikidata.org/entity/Q11965859,Q11965859
+http://www.wikidata.org/entity/Q11965892,Q11965892
+http://www.wikidata.org/entity/Q11966124,Q11966124
+http://www.wikidata.org/entity/Q11966507,Q11966507
+http://www.wikidata.org/entity/Q11968823,Q11968823
+http://www.wikidata.org/entity/Q11969012,Q11969012
+http://www.wikidata.org/entity/Q11969205,Q11969205
+http://www.wikidata.org/entity/Q11969600,Q11969600
+http://www.wikidata.org/entity/Q11969811,Q11969811
+http://www.wikidata.org/entity/Q11970248,Q11970248
+http://www.wikidata.org/entity/Q11976476,Q11976476
+http://www.wikidata.org/entity/Q11977613,Q11977613
+http://www.wikidata.org/entity/Q11979979,Q11979979
+http://www.wikidata.org/entity/Q11980021,Q11980021
+http://www.wikidata.org/entity/Q11982715,Q11982715
+http://www.wikidata.org/entity/Q11983955,Q11983955
+http://www.wikidata.org/entity/Q11986550,Q11986550
+http://www.wikidata.org/entity/Q6816566,Mendel Glacier
 http://www.wikidata.org/entity/Q15225004,Hooker Glacier (Wyoming)
-http://www.wikidata.org/entity/Q7381523,Russell Glacier
-http://www.wikidata.org/entity/Q7401835,Saint Mary's Glacier
-http://www.wikidata.org/entity/Q7414044,San Francisco Glacier
 http://www.wikidata.org/entity/Q15241463,Lander Glacier
 http://www.wikidata.org/entity/Q15242540,Lizard Head Glacier
-http://www.wikidata.org/entity/Q25109993,Nupchu Glacier
-http://www.wikidata.org/entity/Q25209390,Garm
-http://www.wikidata.org/entity/Q7454985,Sermitsiaq Glacier
+http://www.wikidata.org/entity/Q24189612,Douglas Glacier
+http://www.wikidata.org/entity/Q24229383,Snowbird Glacier
+http://www.wikidata.org/entity/Q24259265,Sphinx Glacier
 http://www.wikidata.org/entity/Q16002857,American Legion Glacier
 http://www.wikidata.org/entity/Q16558943,Q16558943
-http://www.wikidata.org/entity/Q7488630,Shani Glacier
-http://www.wikidata.org/entity/Q25577943,Q25577943
-http://www.wikidata.org/entity/Q25580190,Q25580190
-http://www.wikidata.org/entity/Q5329553,East Torrey Glacier
-http://www.wikidata.org/entity/Q5421313,Exploradores Glacier
+http://www.wikidata.org/entity/Q7069732,Nunatakassaup Sermia
+http://www.wikidata.org/entity/Q7069734,Nunatakassaup Sermia
 http://www.wikidata.org/entity/Q17748615,Q17748615
+http://www.wikidata.org/entity/Q7164426,Penny Royal Glacier
 http://www.wikidata.org/entity/Q17769463,Q17769463
 http://www.wikidata.org/entity/Q17770762,Q17770762
 http://www.wikidata.org/entity/Q17773323,Q17773323
 http://www.wikidata.org/entity/Q17776414,Q17776414
-http://www.wikidata.org/entity/Q5499330,Frederikshaab Glacier
-http://www.wikidata.org/entity/Q7881562,Umiamako Glacier
-http://www.wikidata.org/entity/Q7898266,Upernavik Glacier
-http://www.wikidata.org/entity/Q5566111,Glaciar Norte
 http://www.wikidata.org/entity/Q18559329,Barranco Glacier
-http://www.wikidata.org/entity/Q28225778,Akuliarutsip Sermerssua
-http://www.wikidata.org/entity/Q29000958,Q29000958
-http://www.wikidata.org/entity/Q29000962,Q29000962
-http://www.wikidata.org/entity/Q29000965,Q29000965
-http://www.wikidata.org/entity/Q30591368,Ingia Glacier
-http://www.wikidata.org/entity/Q31445682,Q31445682
-http://www.wikidata.org/entity/Q31445700,Q31445700
-http://www.wikidata.org/entity/Q31445731,Q31445731
-http://www.wikidata.org/entity/Q31454980,Q31454980
-http://www.wikidata.org/entity/Q7968304,Wapta Glacier
+http://www.wikidata.org/entity/Q7286863,Ralam Glacier
 http://www.wikidata.org/entity/Q19375154,Q19375154
 http://www.wikidata.org/entity/Q19377121,Q19377121
 http://www.wikidata.org/entity/Q19377416,Q19377416
@@ -139,15 +109,11 @@ http://www.wikidata.org/entity/Q19378522,Q19378522
 http://www.wikidata.org/entity/Q19382021,Q19382021
 http://www.wikidata.org/entity/Q19383345,Q19383345
 http://www.wikidata.org/entity/Q19385135,Q19385135
-http://www.wikidata.org/entity/Q5639348,Hainablak Glacier
-http://www.wikidata.org/entity/Q7986618,West Svartisen Ice-cap
 http://www.wikidata.org/entity/Q19389044,Q19389044
 http://www.wikidata.org/entity/Q19390623,Q19390623
 http://www.wikidata.org/entity/Q19391701,Q19391701
 http://www.wikidata.org/entity/Q19392879,Q19392879
 http://www.wikidata.org/entity/Q19397673,Q19397673
-http://www.wikidata.org/entity/Q5686594,Hayes Glacier
-http://www.wikidata.org/entity/Q5691614,Heard Island glaciers
 http://www.wikidata.org/entity/Q19521152,Q19521152
 http://www.wikidata.org/entity/Q19589495,Q19589495
 http://www.wikidata.org/entity/Q19595938,Arrow Glacier
@@ -166,6 +132,10 @@ http://www.wikidata.org/entity/Q19721095,Q19721095
 http://www.wikidata.org/entity/Q19758115,Q19758115
 http://www.wikidata.org/entity/Q19834899,Q19834899
 http://www.wikidata.org/entity/Q19835180,Q19835180
+http://www.wikidata.org/entity/Q7381523,Russell Glacier
+http://www.wikidata.org/entity/Q7401835,Saint Mary's Glacier
+http://www.wikidata.org/entity/Q7414044,San Francisco Glacier
+http://www.wikidata.org/entity/Q5329553,East Torrey Glacier
 http://www.wikidata.org/entity/Q20098514,Q20098514
 http://www.wikidata.org/entity/Q20112715,Q20112715
 http://www.wikidata.org/entity/Q20190859,Q20190859
@@ -218,34 +188,40 @@ http://www.wikidata.org/entity/Q20628301,Q20628301
 http://www.wikidata.org/entity/Q20628333,Q20628333
 http://www.wikidata.org/entity/Q20628443,Q20628443
 http://www.wikidata.org/entity/Q20791839,Q20791839
+http://www.wikidata.org/entity/Q7454985,Sermitsiaq Glacier
+http://www.wikidata.org/entity/Q25109993,Nupchu Glacier
+http://www.wikidata.org/entity/Q25209390,Garm
+http://www.wikidata.org/entity/Q25577943,Q25577943
+http://www.wikidata.org/entity/Q25580190,Q25580190
 http://www.wikidata.org/entity/Q21044314,Saltuni
+http://www.wikidata.org/entity/Q7488630,Shani Glacier
+http://www.wikidata.org/entity/Q5421313,Exploradores Glacier
+http://www.wikidata.org/entity/Q5499330,Frederikshaab Glacier
+http://www.wikidata.org/entity/Q5566111,Glaciar Norte
+http://www.wikidata.org/entity/Q28225778,Akuliarutsip Sermerssua
+http://www.wikidata.org/entity/Q29000958,Q29000958
+http://www.wikidata.org/entity/Q29000962,Q29000962
+http://www.wikidata.org/entity/Q29000965,Q29000965
+http://www.wikidata.org/entity/Q30591368,Ingia Glacier
+http://www.wikidata.org/entity/Q31445682,Q31445682
+http://www.wikidata.org/entity/Q31445700,Q31445700
+http://www.wikidata.org/entity/Q31445731,Q31445731
+http://www.wikidata.org/entity/Q31454980,Q31454980
+http://www.wikidata.org/entity/Q5639348,Hainablak Glacier
+http://www.wikidata.org/entity/Q21619442,Q21619442
+http://www.wikidata.org/entity/Q21619443,Q21619443
+http://www.wikidata.org/entity/Q21619444,Q21619444
+http://www.wikidata.org/entity/Q5686594,Hayes Glacier
+http://www.wikidata.org/entity/Q5691614,Heard Island glaciers
+http://www.wikidata.org/entity/Q7881562,Umiamako Glacier
+http://www.wikidata.org/entity/Q7898266,Upernavik Glacier
+http://www.wikidata.org/entity/Q7968304,Wapta Glacier
 http://www.wikidata.org/entity/Q6346149,Kafni Glacier
 http://www.wikidata.org/entity/Q6350006,Kalabaland Glacier
+http://www.wikidata.org/entity/Q22343129,Q22343129
 http://www.wikidata.org/entity/Q6382545,Kedarnath Glacier
 http://www.wikidata.org/entity/Q6419455,Kjer Glacier
 http://www.wikidata.org/entity/Q38251784,Wenden Glacier
-http://www.wikidata.org/entity/Q64144198,Mount Waskey
-http://www.wikidata.org/entity/Q64144201,Nunatak Fiord
-http://www.wikidata.org/entity/Q64144203,Northwestern Glacier
-http://www.wikidata.org/entity/Q64144204,Nuyakuk Lake
-http://www.wikidata.org/entity/Q64144205,Midimber Lake
-http://www.wikidata.org/entity/Q64144207,Mount Cook (Alaska)
-http://www.wikidata.org/entity/Q64144208,Mount Saint Elias
-http://www.wikidata.org/entity/Q64144209,Mount Augusta
-http://www.wikidata.org/entity/Q64144210,Mount Miller
-http://www.wikidata.org/entity/Q64144211,Nellie Juan Glacier
-http://www.wikidata.org/entity/Q64144212,Mount Logan
-http://www.wikidata.org/entity/Q64144213,Northland Glacier
-http://www.wikidata.org/entity/Q64144214,Mount Hawkins
-http://www.wikidata.org/entity/Q64144215,North Fork Glacier
-http://www.wikidata.org/entity/Q64144217,Neacola Glacier
-http://www.wikidata.org/entity/Q64144223,Mount Hogan
-http://www.wikidata.org/entity/Q64144225,Mount Spurr
-http://www.wikidata.org/entity/Q64144227,Mount Bona
-http://www.wikidata.org/entity/Q64144229,Mount Witherspoon
-http://www.wikidata.org/entity/Q64144234,Mount Gerdine
-http://www.wikidata.org/entity/Q64144236,Mount Blackburn
-http://www.wikidata.org/entity/Q64144237,Middle Fork Glacier
 http://www.wikidata.org/entity/Q64144239,Mint Glacier
 http://www.wikidata.org/entity/Q64144240,Mount Wrangell
 http://www.wikidata.org/entity/Q64144242,Mount Jarvis
@@ -322,16 +298,6 @@ http://www.wikidata.org/entity/Q64144552,Silsersee
 http://www.wikidata.org/entity/Q64144553,Schwarz Glacier
 http://www.wikidata.org/entity/Q64144554,Vedreit de Camp (Paridisino) Glacier
 http://www.wikidata.org/entity/Q64144555,Schonbuhl Glacier
-http://www.wikidata.org/entity/Q86683557,Q86683557
-http://www.wikidata.org/entity/Q86750629,Nunatak Glacier
-http://www.wikidata.org/entity/Q87759091,Q87759091
-http://www.wikidata.org/entity/Q87915585,Q87915585
-http://www.wikidata.org/entity/Q88218135,Thajiwas glacier
-http://www.wikidata.org/entity/Q88266747,Younghusband glacier
-http://www.wikidata.org/entity/Q89481538,Bichom Glacier
-http://www.wikidata.org/entity/Q89482357,Hari parbat Glacier
-http://www.wikidata.org/entity/Q93475772,Q93475772
-http://www.wikidata.org/entity/Q94579415,Q94579415
 http://www.wikidata.org/entity/Q64144558,Pizgletscher
 http://www.wikidata.org/entity/Q64144561,Räterichsbodensee Lake
 http://www.wikidata.org/entity/Q64144564,Schwarzbachfirn Glacier
@@ -352,6 +318,7 @@ http://www.wikidata.org/entity/Q64144587,Sitting Bull Mountain
 http://www.wikidata.org/entity/Q64144588,Mount Saint Nicholas
 http://www.wikidata.org/entity/Q64144590,Snowking Mountain
 http://www.wikidata.org/entity/Q64144592,Mount Pinchot
+http://www.wikidata.org/entity/Q48769738,West Fork Glacier
 http://www.wikidata.org/entity/Q64144595,Razoredge Mountain
 http://www.wikidata.org/entity/Q64144598,Twin Sisters Mountain
 http://www.wikidata.org/entity/Q64144601,Saint Mary Lake
@@ -430,35 +397,6 @@ http://www.wikidata.org/entity/Q64144722,Rainy Pass
 http://www.wikidata.org/entity/Q64144725,Slana River
 http://www.wikidata.org/entity/Q64144730,Robertson River
 http://www.wikidata.org/entity/Q64144734,Skalafellsjökull
-http://www.wikidata.org/entity/Q48769738,West Fork Glacier
-http://www.wikidata.org/entity/Q101245580,Dakshini Nanda Devi Glacier
-http://www.wikidata.org/entity/Q101245581,Dakshini Rishi Glacier
-http://www.wikidata.org/entity/Q101245582,Dokriani Glacier
-http://www.wikidata.org/entity/Q101245583,Ghanohim Bamak
-http://www.wikidata.org/entity/Q101245584,Jaundhar Glacier
-http://www.wikidata.org/entity/Q101245585,Kedar Bamak Glacier
-http://www.wikidata.org/entity/Q101245587,Lawan Glacier
-http://www.wikidata.org/entity/Q101245588,Maiandi Bamak
-http://www.wikidata.org/entity/Q101245602,Swachhand Glacier
-http://www.wikidata.org/entity/Q101245603,Swetvarn Glacier
-http://www.wikidata.org/entity/Q101245608,Uttari Rishi Glacier
-http://www.wikidata.org/entity/Q101245610,BCB Glacier (bcb land)
-http://www.wikidata.org/entity/Q101245615,Chandra Nahan Glacier
-http://www.wikidata.org/entity/Q101245618,North Dakka Glacier
-http://www.wikidata.org/entity/Q101245619,Gora Glacier
-http://www.wikidata.org/entity/Q101245620,The Lady of Keylong
-http://www.wikidata.org/entity/Q101245622,Mukkila Glacier
-http://www.wikidata.org/entity/Q101245623,Parbati and Dudhon
-http://www.wikidata.org/entity/Q101245626,Sonapani Glacier
-http://www.wikidata.org/entity/Q101245627,Gara
-http://www.wikidata.org/entity/Q101245628,Gor Gorang
-http://www.wikidata.org/entity/Q101245629,Shaune Gorang
-http://www.wikidata.org/entity/Q101245630,Nagpo Tokpo
-http://www.wikidata.org/entity/Q101245631,Kangto Glacier
-http://www.wikidata.org/entity/Q101245634,Mazgol Glacier
-http://www.wikidata.org/entity/Q101245635,Chong Kmdan Glacier
-http://www.wikidata.org/entity/Q101245636,Kazi N Glacier
-http://www.wikidata.org/entity/Q101245638,Shirwali Glacier
 http://www.wikidata.org/entity/Q64144737,Rundvassbreen Glacier
 http://www.wikidata.org/entity/Q64144742,Søndre Strømfjord
 http://www.wikidata.org/entity/Q64144745,Passusjietna West Glacier
@@ -490,7 +428,6 @@ http://www.wikidata.org/entity/Q64144883,Three Forks Park
 http://www.wikidata.org/entity/Q64144884,Teton Range
 http://www.wikidata.org/entity/Q64144885,Timberline Lodge
 http://www.wikidata.org/entity/Q64144890,Ghiacciaio della Valletta
-http://www.wikidata.org/entity/Q64144897,Glacier de Tré-la-Tête
 http://www.wikidata.org/entity/Q64144903,Glacier de Tseudet
 http://www.wikidata.org/entity/Q64144967,Theodulpass
 http://www.wikidata.org/entity/Q64144968,Zadezan Glacier
@@ -546,22 +483,6 @@ http://www.wikidata.org/entity/Q64145242,Mount Upshur
 http://www.wikidata.org/entity/Q64145245,Unuk River
 http://www.wikidata.org/entity/Q64145247,Taylor River
 http://www.wikidata.org/entity/Q64145251,Teigen Creek
-http://www.wikidata.org/entity/Q95218790,Q95218790
-http://www.wikidata.org/entity/Q95571273,Q95571273
-http://www.wikidata.org/entity/Q96600870,Q96600870
-http://www.wikidata.org/entity/Q96743249,Q96743249
-http://www.wikidata.org/entity/Q96743262,Q96743262
-http://www.wikidata.org/entity/Q96743269,Q96743269
-http://www.wikidata.org/entity/Q100319346,Vadret da Radönt
-http://www.wikidata.org/entity/Q104551128,Q104551128
-http://www.wikidata.org/entity/Q104907223,Q104907223
-http://www.wikidata.org/entity/Q106464385,Q106464385
-http://www.wikidata.org/entity/Q106608793,Thulagi glacier
-http://www.wikidata.org/entity/Q106795676,Gozenzawa Glacier
-http://www.wikidata.org/entity/Q106795685,Yamatari Glacier
-http://www.wikidata.org/entity/Q107267009,Q107267009
-http://www.wikidata.org/entity/Q107548532,Q107548532
-http://www.wikidata.org/entity/Q107548964,Q107548964
 http://www.wikidata.org/entity/Q64145252,Twin Glacier (British Columbia)
 http://www.wikidata.org/entity/Q64145253,Thutade Lake
 http://www.wikidata.org/entity/Q64145254,Trygve Lake
@@ -583,6 +504,45 @@ http://www.wikidata.org/entity/Q64145287,Tarr Inlet
 http://www.wikidata.org/entity/Q64145288,Willard Glacier
 http://www.wikidata.org/entity/Q64145289,Takhin Glacier
 http://www.wikidata.org/entity/Q64145290,Taiya Inlet
+http://www.wikidata.org/entity/Q93475772,Q93475772
+http://www.wikidata.org/entity/Q94579415,Q94579415
+http://www.wikidata.org/entity/Q54872287,Yakutat Glacier
+http://www.wikidata.org/entity/Q55163219,Q55163219
+http://www.wikidata.org/entity/Q55163228,Q55163228
+http://www.wikidata.org/entity/Q55163230,Q55163230
+http://www.wikidata.org/entity/Q55163234,Q55163234
+http://www.wikidata.org/entity/Q55163245,Q55163245
+http://www.wikidata.org/entity/Q55163247,Q55163247
+http://www.wikidata.org/entity/Q55164590,Q55164590
+http://www.wikidata.org/entity/Q55164591,Q55164591
+http://www.wikidata.org/entity/Q55164596,Q55164596
+http://www.wikidata.org/entity/Q55164646,Q55164646
+http://www.wikidata.org/entity/Q55164647,Q55164647
+http://www.wikidata.org/entity/Q55164650,Q55164650
+http://www.wikidata.org/entity/Q55164651,Q55164651
+http://www.wikidata.org/entity/Q55164654,Q55164654
+http://www.wikidata.org/entity/Q55164656,Q55164656
+http://www.wikidata.org/entity/Q55164657,Q55164657
+http://www.wikidata.org/entity/Q55164658,Q55164658
+http://www.wikidata.org/entity/Q55164659,Q55164659
+http://www.wikidata.org/entity/Q55164661,Q55164661
+http://www.wikidata.org/entity/Q55164664,Q55164664
+http://www.wikidata.org/entity/Q55164665,Q55164665
+http://www.wikidata.org/entity/Q55164666,Q55164666
+http://www.wikidata.org/entity/Q55164667,Q55164667
+http://www.wikidata.org/entity/Q55164668,Q55164668
+http://www.wikidata.org/entity/Q55164670,Q55164670
+http://www.wikidata.org/entity/Q55164673,Q55164673
+http://www.wikidata.org/entity/Q55164674,Q55164674
+http://www.wikidata.org/entity/Q55165901,Q55165901
+http://www.wikidata.org/entity/Q55597091,Q55597091
+http://www.wikidata.org/entity/Q56517492,Q56517492
+http://www.wikidata.org/entity/Q56517494,Q56517494
+http://www.wikidata.org/entity/Q56517506,Q56517506
+http://www.wikidata.org/entity/Q56517520,Q56517520
+http://www.wikidata.org/entity/Q56517523,Q56517523
+http://www.wikidata.org/entity/Q56517527,Q56517527
+http://www.wikidata.org/entity/Q56517530,Q56517530
 http://www.wikidata.org/entity/Q64145295,Split Glacier (Kenai Peninsula)
 http://www.wikidata.org/entity/Q64145296,Surprise Lake
 http://www.wikidata.org/entity/Q64145297,Trout Lake
@@ -629,6 +589,8 @@ http://www.wikidata.org/entity/Q65127891,Q65127891
 http://www.wikidata.org/entity/Q69856679,Q69856679
 http://www.wikidata.org/entity/Q71520095,Q71520095
 http://www.wikidata.org/entity/Q71542453,Q71542453
+http://www.wikidata.org/entity/Q95218790,Q95218790
+http://www.wikidata.org/entity/Q95571273,Q95571273
 http://www.wikidata.org/entity/Q71870898,Q71870898
 http://www.wikidata.org/entity/Q71881797,Q71881797
 http://www.wikidata.org/entity/Q71881801,Q71881801
@@ -644,44 +606,14 @@ http://www.wikidata.org/entity/Q83367384,Q83367384
 http://www.wikidata.org/entity/Q83474426,Q83474426
 http://www.wikidata.org/entity/Q85751475,Chaos Glacier
 http://www.wikidata.org/entity/Q85795570,Radiant Glacier
-http://www.wikidata.org/entity/Q54872287,Yakutat Glacier
-http://www.wikidata.org/entity/Q55163219,Q55163219
-http://www.wikidata.org/entity/Q55163228,Q55163228
-http://www.wikidata.org/entity/Q55163230,Q55163230
-http://www.wikidata.org/entity/Q55163234,Q55163234
-http://www.wikidata.org/entity/Q55163245,Q55163245
-http://www.wikidata.org/entity/Q55163247,Q55163247
-http://www.wikidata.org/entity/Q55164590,Q55164590
-http://www.wikidata.org/entity/Q55164591,Q55164591
-http://www.wikidata.org/entity/Q55164596,Q55164596
-http://www.wikidata.org/entity/Q55164646,Q55164646
-http://www.wikidata.org/entity/Q55164647,Q55164647
-http://www.wikidata.org/entity/Q55164650,Q55164650
-http://www.wikidata.org/entity/Q55164651,Q55164651
-http://www.wikidata.org/entity/Q55164654,Q55164654
-http://www.wikidata.org/entity/Q55164656,Q55164656
-http://www.wikidata.org/entity/Q55164657,Q55164657
-http://www.wikidata.org/entity/Q55164658,Q55164658
-http://www.wikidata.org/entity/Q55164659,Q55164659
-http://www.wikidata.org/entity/Q55164661,Q55164661
-http://www.wikidata.org/entity/Q55164664,Q55164664
-http://www.wikidata.org/entity/Q55164665,Q55164665
-http://www.wikidata.org/entity/Q55164666,Q55164666
-http://www.wikidata.org/entity/Q13165506,Q13165506
-http://www.wikidata.org/entity/Q55164667,Q55164667
-http://www.wikidata.org/entity/Q55164668,Q55164668
-http://www.wikidata.org/entity/Q55164670,Q55164670
-http://www.wikidata.org/entity/Q55164673,Q55164673
-http://www.wikidata.org/entity/Q55164674,Q55164674
-http://www.wikidata.org/entity/Q55165901,Q55165901
-http://www.wikidata.org/entity/Q55597091,Q55597091
-http://www.wikidata.org/entity/Q56517492,Q56517492
-http://www.wikidata.org/entity/Q56517494,Q56517494
-http://www.wikidata.org/entity/Q56517506,Q56517506
-http://www.wikidata.org/entity/Q56517520,Q56517520
-http://www.wikidata.org/entity/Q56517523,Q56517523
-http://www.wikidata.org/entity/Q56517527,Q56517527
-http://www.wikidata.org/entity/Q56517530,Q56517530
+http://www.wikidata.org/entity/Q86683557,Q86683557
+http://www.wikidata.org/entity/Q86750629,Nunatak Glacier
+http://www.wikidata.org/entity/Q87759091,Q87759091
+http://www.wikidata.org/entity/Q87915585,Q87915585
+http://www.wikidata.org/entity/Q88218135,Thajiwas glacier
+http://www.wikidata.org/entity/Q88266747,Younghusband glacier
+http://www.wikidata.org/entity/Q89481538,Bichom Glacier
+http://www.wikidata.org/entity/Q89482357,Hari parbat Glacier
 http://www.wikidata.org/entity/Q56612780,Q56612780
 http://www.wikidata.org/entity/Q56640684,Q56640684
 http://www.wikidata.org/entity/Q56640686,Q56640686
@@ -709,14 +641,6 @@ http://www.wikidata.org/entity/Q63982841,Adams Plateau Glacier
 http://www.wikidata.org/entity/Q63982843,Spatsizi River
 http://www.wikidata.org/entity/Q63982844,Cascade Iceworn Glacier
 http://www.wikidata.org/entity/Q63982845,Bradfield Canal
-http://www.wikidata.org/entity/Q65076675,Thwaites Ice Shelf
-http://www.wikidata.org/entity/Q106520533,Larsen B Ice Shelf
-http://www.wikidata.org/entity/Q107549049,Q107549049
-http://www.wikidata.org/entity/Q107549077,Q107549077
-http://www.wikidata.org/entity/Q107549869,Q107549869
-http://www.wikidata.org/entity/Q107549968,Q107549968
-http://www.wikidata.org/entity/Q107649540,Q107649540
-http://www.wikidata.org/entity/Q108117231,Q108117231
 http://www.wikidata.org/entity/Q63982846,Gravel Glacier
 http://www.wikidata.org/entity/Q63982847,Lauteraar Glacier
 http://www.wikidata.org/entity/Q63982848,Lednik Medvezhiy
@@ -752,6 +676,32 @@ http://www.wikidata.org/entity/Q64140478,Abay Glacier
 http://www.wikidata.org/entity/Q64141379,Antizana 15 Alpha Glacier
 http://www.wikidata.org/entity/Q64141380,Amarillo Glacier
 http://www.wikidata.org/entity/Q64141381,Alerce Glacier
+http://www.wikidata.org/entity/Q96600870,Q96600870
+http://www.wikidata.org/entity/Q96743249,Q96743249
+http://www.wikidata.org/entity/Q96743262,Q96743262
+http://www.wikidata.org/entity/Q96743269,Q96743269
+http://www.wikidata.org/entity/Q100319346,Vadret da Radönt
+http://www.wikidata.org/entity/Q101245580,Dakshini Nanda Devi Glacier
+http://www.wikidata.org/entity/Q101245581,Dakshini Rishi Glacier
+http://www.wikidata.org/entity/Q101245582,Dokriani Glacier
+http://www.wikidata.org/entity/Q101245583,Ghanohim Bamak
+http://www.wikidata.org/entity/Q101245584,Jaundhar Glacier
+http://www.wikidata.org/entity/Q101245585,Kedar Bamak Glacier
+http://www.wikidata.org/entity/Q101245587,Lawan Glacier
+http://www.wikidata.org/entity/Q101245588,Maiandi Bamak
+http://www.wikidata.org/entity/Q101245602,Swachhand Glacier
+http://www.wikidata.org/entity/Q101245603,Swetvarn Glacier
+http://www.wikidata.org/entity/Q101245608,Uttari Rishi Glacier
+http://www.wikidata.org/entity/Q101245610,BCB Glacier (bcb land)
+http://www.wikidata.org/entity/Q101245615,Chandra Nahan Glacier
+http://www.wikidata.org/entity/Q101245618,North Dakka Glacier
+http://www.wikidata.org/entity/Q101245619,Gora Glacier
+http://www.wikidata.org/entity/Q101245620,The Lady of Keylong
+http://www.wikidata.org/entity/Q101245622,Mukkila Glacier
+http://www.wikidata.org/entity/Q101245623,Parbati and Dudhon
+http://www.wikidata.org/entity/Q101245626,Sonapani Glacier
+http://www.wikidata.org/entity/Q101245627,Gara
+http://www.wikidata.org/entity/Q101245628,Gor Gorang
 http://www.wikidata.org/entity/Q64141382,Aida Glacier
 http://www.wikidata.org/entity/Q64141383,Balfour Glacier
 http://www.wikidata.org/entity/Q64141384,Arenales Glacier
@@ -810,8 +760,6 @@ http://www.wikidata.org/entity/Q64141929,Carnivore Creek
 http://www.wikidata.org/entity/Q64141984,Biafo Gyang Glacier
 http://www.wikidata.org/entity/Q64141985,Blanca Peak Glacier
 http://www.wikidata.org/entity/Q64141986,Blacktop Peak Glacier
-http://www.wikidata.org/entity/Q20552414,Q20552414
-http://www.wikidata.org/entity/Q55163235,Wit Stwosz Icefall
 http://www.wikidata.org/entity/Q64141988,Bear Lake Glacier
 http://www.wikidata.org/entity/Q64141989,Big Agnes Mountain Glacier
 http://www.wikidata.org/entity/Q64141990,Calderone Glacier
@@ -854,6 +802,24 @@ http://www.wikidata.org/entity/Q64142129,Cape Suckling
 http://www.wikidata.org/entity/Q64142132,Cape Yakataga
 http://www.wikidata.org/entity/Q64142133,Beloit Glacier
 http://www.wikidata.org/entity/Q64142135,Blackstone Bay
+http://www.wikidata.org/entity/Q101245629,Shaune Gorang
+http://www.wikidata.org/entity/Q101245630,Nagpo Tokpo
+http://www.wikidata.org/entity/Q101245631,Kangto Glacier
+http://www.wikidata.org/entity/Q101245634,Mazgol Glacier
+http://www.wikidata.org/entity/Q101245635,Chong Kmdan Glacier
+http://www.wikidata.org/entity/Q101245636,Kazi N Glacier
+http://www.wikidata.org/entity/Q101245638,Shirwali Glacier
+http://www.wikidata.org/entity/Q104551128,Q104551128
+http://www.wikidata.org/entity/Q104907223,Q104907223
+http://www.wikidata.org/entity/Q106464385,Q106464385
+http://www.wikidata.org/entity/Q106608793,Thulagi glacier
+http://www.wikidata.org/entity/Q106795676,Gozenzawa Glacier
+http://www.wikidata.org/entity/Q106795685,Yamatari Glacier
+http://www.wikidata.org/entity/Q107267009,Q107267009
+http://www.wikidata.org/entity/Q107548532,Q107548532
+http://www.wikidata.org/entity/Q107548964,Q107548964
+http://www.wikidata.org/entity/Q107549049,Q107549049
+http://www.wikidata.org/entity/Q107549077,Q107549077
 http://www.wikidata.org/entity/Q64142136,Barkley Lake
 http://www.wikidata.org/entity/Q64142137,Big River Lobe Double Glacier
 http://www.wikidata.org/entity/Q64142138,Busby Island
@@ -912,10 +878,6 @@ http://www.wikidata.org/entity/Q64142559,Conejeras Glacier
 http://www.wikidata.org/entity/Q64142561,Fryingpan Basin
 http://www.wikidata.org/entity/Q64142642,Fremont Lake
 http://www.wikidata.org/entity/Q64142643,Dzhambul Glacier
-http://www.wikidata.org/entity/Q4009221,Q4009221
-http://www.wikidata.org/entity/Q68582901,Humboldt glacier
-http://www.wikidata.org/entity/Q85792180,Parallel Glacier
-http://www.wikidata.org/entity/Q97174311,Q97174311
 http://www.wikidata.org/entity/Q64142645,Mq’invari Ch’alaati
 http://www.wikidata.org/entity/Q64142646,Gannett Peak
 http://www.wikidata.org/entity/Q64142647,Djankuat Glacier
@@ -953,6 +915,10 @@ http://www.wikidata.org/entity/Q64142765,Delabarre Glacier
 http://www.wikidata.org/entity/Q64142767,Columbia Peak
 http://www.wikidata.org/entity/Q64142770,Emerald Peak
 http://www.wikidata.org/entity/Q64142773,Fortress Mountain
+http://www.wikidata.org/entity/Q107549869,Q107549869
+http://www.wikidata.org/entity/Q107549968,Q107549968
+http://www.wikidata.org/entity/Q107649540,Q107649540
+http://www.wikidata.org/entity/Q108117231,Q108117231
 http://www.wikidata.org/entity/Q64142774,Cloudy Pass
 http://www.wikidata.org/entity/Q64142775,Cascade Pass
 http://www.wikidata.org/entity/Q64142777,Doubtful Lake
@@ -1149,6 +1115,7 @@ http://www.wikidata.org/entity/Q64143628,Meeham Glacier
 http://www.wikidata.org/entity/Q64143633,Kirtisho Glacier
 http://www.wikidata.org/entity/Q64143654,Kvitlodi Glacier
 http://www.wikidata.org/entity/Q64143690,Kosmodemyanskaya Glacier
+http://www.wikidata.org/entity/Q13165506,Q13165506
 http://www.wikidata.org/entity/Q64143691,Igly Tuyuksu Glacier
 http://www.wikidata.org/entity/Q64143692,Manshuk Mametova Glacier
 http://www.wikidata.org/entity/Q64143693,Kroshka Glacier
@@ -1241,6 +1208,8 @@ http://www.wikidata.org/entity/Q64143890,Lake Superior
 http://www.wikidata.org/entity/Q64143891,Lava Fork Area
 http://www.wikidata.org/entity/Q64143901,Katajanokka Glaciers
 http://www.wikidata.org/entity/Q64143905,Lupo Glacier
+http://www.wikidata.org/entity/Q65076675,Thwaites Ice Shelf
+http://www.wikidata.org/entity/Q106520533,Larsen B Ice Shelf
 http://www.wikidata.org/entity/Q64143910,Mattertal
 http://www.wikidata.org/entity/Q64143913,Lägh da Cavloc
 http://www.wikidata.org/entity/Q64143914,Lämmern Glacier
@@ -1358,3 +1327,33 @@ http://www.wikidata.org/entity/Q64144188,Mount Douglas
 http://www.wikidata.org/entity/Q64144190,Mount Merriam
 http://www.wikidata.org/entity/Q64144193,Muir Glacier
 http://www.wikidata.org/entity/Q64144196,Muir Inlet
+http://www.wikidata.org/entity/Q64144198,Mount Waskey
+http://www.wikidata.org/entity/Q64144201,Nunatak Fiord
+http://www.wikidata.org/entity/Q64144203,Northwestern Glacier
+http://www.wikidata.org/entity/Q64144204,Nuyakuk Lake
+http://www.wikidata.org/entity/Q64144205,Midimber Lake
+http://www.wikidata.org/entity/Q64144207,Mount Cook (Alaska)
+http://www.wikidata.org/entity/Q64144208,Mount Saint Elias
+http://www.wikidata.org/entity/Q64144209,Mount Augusta
+http://www.wikidata.org/entity/Q64144210,Mount Miller
+http://www.wikidata.org/entity/Q64144211,Nellie Juan Glacier
+http://www.wikidata.org/entity/Q64144212,Mount Logan
+http://www.wikidata.org/entity/Q64144213,Northland Glacier
+http://www.wikidata.org/entity/Q64144214,Mount Hawkins
+http://www.wikidata.org/entity/Q64144215,North Fork Glacier
+http://www.wikidata.org/entity/Q64144217,Neacola Glacier
+http://www.wikidata.org/entity/Q64144223,Mount Hogan
+http://www.wikidata.org/entity/Q64144225,Mount Spurr
+http://www.wikidata.org/entity/Q64144227,Mount Bona
+http://www.wikidata.org/entity/Q64144229,Mount Witherspoon
+http://www.wikidata.org/entity/Q64144234,Mount Gerdine
+http://www.wikidata.org/entity/Q64144236,Mount Blackburn
+http://www.wikidata.org/entity/Q64144237,Middle Fork Glacier
+http://www.wikidata.org/entity/Q20552414,Q20552414
+http://www.wikidata.org/entity/Q55163235,Wit Stwosz Icefall
+http://www.wikidata.org/entity/Q4009221,Q4009221
+http://www.wikidata.org/entity/Q68582901,Humboldt glacier
+http://www.wikidata.org/entity/Q85792180,Parallel Glacier
+http://www.wikidata.org/entity/Q97174311,Q97174311
+http://www.wikidata.org/entity/Q13165279,Q13165279
+http://www.wikidata.org/entity/Q13165848,Q13165848

@@ -845,6 +845,7 @@ http://www.wikidata.org/entity/Q64145319,Yakataga Glacier
 http://www.wikidata.org/entity/Q64145183,Hintersulzfirn
 http://www.wikidata.org/entity/Q64145010,Tiefmattengletscher
 http://www.wikidata.org/entity/Q64145247,Taylor River
+http://www.wikidata.org/entity/Q96593941,Daberkees
 http://www.wikidata.org/entity/Q64145274,Mount Wilbur
 http://www.wikidata.org/entity/Q64145210,Swiftcurrent Mountain
 http://www.wikidata.org/entity/Q64145346,Tsiu River
@@ -871,7 +872,6 @@ http://www.wikidata.org/entity/Q64145133,Vadret da Rosatsch Glacier
 http://www.wikidata.org/entity/Q64145122,Ventina (Pizzo) Glacier
 http://www.wikidata.org/entity/Q64145009,Tête de Valpelline
 http://www.wikidata.org/entity/Q89037104,East Lenin glacier
-http://www.wikidata.org/entity/Q64144897,Glacier de Tré-la-Tête
 http://www.wikidata.org/entity/Q64145169,Stevens Glacier
 http://www.wikidata.org/entity/Q64145180,Tipsoo Lake
 http://www.wikidata.org/entity/Q64145273,Twin Glacier Peak
@@ -899,7 +899,7 @@ http://www.wikidata.org/entity/Q89482357,Hari parbat Glacier
 http://www.wikidata.org/entity/Q64144968,Zadezan Glacier
 http://www.wikidata.org/entity/Q64144877,Urumqi Glacier
 http://www.wikidata.org/entity/Q64145333,Upnuk Lake
-http://www.wikidata.org/entity/Q107649540,Q107649540
+http://www.wikidata.org/entity/Q108260657,Sítio das Pedras
 http://www.wikidata.org/entity/Q108117231,Q108117231
 http://www.wikidata.org/entity/Q106520533,Larsen B Ice Shelf
 http://www.wikidata.org/entity/Q104874896,Alpeiner Ferner
@@ -933,7 +933,6 @@ http://www.wikidata.org/entity/Q101245595,Raikana Glacier
 http://www.wikidata.org/entity/Q101245638,Shirwali Glacier
 http://www.wikidata.org/entity/Q101245609,Vasuki Glacier
 http://www.wikidata.org/entity/Q100319346,Vadret da Radönt
-http://www.wikidata.org/entity/Q107597108,tropical glaciers
 http://www.wikidata.org/entity/Q101244719,Bhagirathi Kharak Glacier
 http://www.wikidata.org/entity/Q101245582,Dokriani Glacier
 http://www.wikidata.org/entity/Q101245615,Chandra Nahan Glacier
@@ -941,6 +940,7 @@ http://www.wikidata.org/entity/Q101245635,Chong Kmdan Glacier
 http://www.wikidata.org/entity/Q101245596,Raktavarn Glacier
 http://www.wikidata.org/entity/Q101245634,Mazgol Glacier
 http://www.wikidata.org/entity/Q97258586,Hrútárjökull
+http://www.wikidata.org/entity/Q107597108,tropical glaciers
 http://www.wikidata.org/entity/Q101244685,Arwa Glacier
 http://www.wikidata.org/entity/Q101244705,Bagini Glacier
 http://www.wikidata.org/entity/Q101245612,Bhaga Glacier
@@ -972,7 +972,6 @@ http://www.wikidata.org/entity/Q107550477,Grand Glacier
 http://www.wikidata.org/entity/Q101245616,Dhaka Glacier
 http://www.wikidata.org/entity/Q101245592,Paschimi Kamet Glacier
 http://www.wikidata.org/entity/Q101245604,Thelu Glacier
-http://www.wikidata.org/entity/Q96593941,Daberkees
 http://www.wikidata.org/entity/Q101245611,Beas Kund glacier
 http://www.wikidata.org/entity/Q101245614,Chandra Glacier
 http://www.wikidata.org/entity/Q101245619,Gora Glacier
@@ -984,7 +983,6 @@ http://www.wikidata.org/entity/Q101245598,Seeta Glacier
 http://www.wikidata.org/entity/Q101245602,Swachhand Glacier
 http://www.wikidata.org/entity/Q101245629,Shaune Gorang
 http://www.wikidata.org/entity/Q101245580,Dakshini Nanda Devi Glacier
-http://www.wikidata.org/entity/Q107549153,Glacier de la Vuzelle
 http://www.wikidata.org/entity/Q104772914,Rudolph Glacier
 http://www.wikidata.org/entity/Q107267009,Q107267009
 http://www.wikidata.org/entity/Q107548532,Q107548532
@@ -993,10 +991,12 @@ http://www.wikidata.org/entity/Q107549049,Q107549049
 http://www.wikidata.org/entity/Q107549077,Q107549077
 http://www.wikidata.org/entity/Q107549869,Q107549869
 http://www.wikidata.org/entity/Q107549968,Q107549968
+http://www.wikidata.org/entity/Q107649540,Q107649540
 http://www.wikidata.org/entity/Q106314807,Romer Glacier
-http://www.wikidata.org/entity/Q107314268,Petit Vignemale Glacier
-http://www.wikidata.org/entity/Q107314366,Montferrat Glacier
 http://www.wikidata.org/entity/Q104246100,Vetlebreen
+http://www.wikidata.org/entity/Q107549153,Glacier de la Vuzelle
 http://www.wikidata.org/entity/Q96600360,Welitzkees
 http://www.wikidata.org/entity/Q105637486,Dakshini Nanda Devi Glacier
+http://www.wikidata.org/entity/Q107314268,Petit Vignemale Glacier
+http://www.wikidata.org/entity/Q107314366,Montferrat Glacier
 http://www.wikidata.org/entity/Q103534328,Mariner Glacier
