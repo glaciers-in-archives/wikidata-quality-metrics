@@ -213,6 +213,7 @@ http://www.wikidata.org/entity/Q63982867,North Sister,glacier in Chile; Argentin
 http://www.wikidata.org/entity/Q64141570,Altyn Peak,glacier in United States
 http://www.wikidata.org/entity/Q64141580,Adams Inlet,glacier in United States
 http://www.wikidata.org/entity/Q63982856,Cima di Rosso,glacier in Canada; United States
+http://www.wikidata.org/entity/Q64142142,Barry Glacier,glacier in United States
 http://www.wikidata.org/entity/Q64141610,Agpat Glacier,glacier in Greenland
 http://www.wikidata.org/entity/Q64141380,Amarillo Glacier,glacier in Chile
 http://www.wikidata.org/entity/Q64141898,Benito Glacier,glacier in Chile
@@ -239,7 +240,6 @@ http://www.wikidata.org/entity/Q64141402,Alsek River,glacier in United States
 http://www.wikidata.org/entity/Q64141603,Arrigetch Peaks,glacier in United States
 http://www.wikidata.org/entity/Q64142032,Carlisle Island,glacier in United States
 http://www.wikidata.org/entity/Q63982855,Mount Jefferson,glacier in Canada; United States
-http://www.wikidata.org/entity/Q63982858,Sphinx glacier,glacier in British Columbia
 http://www.wikidata.org/entity/Q64141607,Avangnardleq Glacier,glacier in Greenland
 http://www.wikidata.org/entity/Q64142002,Breithorn Glacier,glacier in Switzerland
 http://www.wikidata.org/entity/Q64142021,Blau-Eis Glacier,glacier in Germany
@@ -298,6 +298,7 @@ http://www.wikidata.org/entity/Q64141927,Brooks Range,glacier in United States
 http://www.wikidata.org/entity/Q64142037,Blue River (Alaska),glacier in United States
 http://www.wikidata.org/entity/Q63982866,HPS 19 Glacier,glacier in Chile; Argentina
 http://www.wikidata.org/entity/Q64142120,Battle Lake,glacier in United States
+http://www.wikidata.org/entity/Q64142909,East Fork Skagway River,glacier in United States
 http://www.wikidata.org/entity/Q64142770,Emerald Peak,glacier in United States
 http://www.wikidata.org/entity/Q64142165,Carlos Glacier,glacier in Greenland
 http://www.wikidata.org/entity/Q64142172,Bissels Glacier,glacier in Greenland
@@ -312,7 +313,6 @@ http://www.wikidata.org/entity/Q64142500,Darialis Kheoba,glacier in Georgia and 
 http://www.wikidata.org/entity/Q64142162,Canning River,glacier in United States
 http://www.wikidata.org/entity/Q64142760,Fay Peak,glacier in United States
 http://www.wikidata.org/entity/Q64142467,Chilkat River,glacier in United States
-http://www.wikidata.org/entity/Q64142142,Barry Glacier,glacier in United States
 http://www.wikidata.org/entity/Q64142862,Craig River,glacier in United States
 http://www.wikidata.org/entity/Q64142779,Fusillade Mountain,glacier in United States
 http://www.wikidata.org/entity/Q64142657,Entrèves,glacier in Italy
@@ -401,7 +401,6 @@ http://www.wikidata.org/entity/Q64142256,Chimborazo,glacier in Ecuador
 http://www.wikidata.org/entity/Q64143576,Lake McArthur,glacier in Canada
 http://www.wikidata.org/entity/Q64143274,Glacier Island,glacier in United States
 http://www.wikidata.org/entity/Q64143278,Heather Island,glacier in United States
-http://www.wikidata.org/entity/Q64142909,East Fork Skagway River,glacier in United States
 http://www.wikidata.org/entity/Q64143313,Goldbergkees Glacier,glacier in the Goldberg Group in Salzburg
 http://www.wikidata.org/entity/Q64142968,Falljökull,glacier in Iceland
 http://www.wikidata.org/entity/Q64143119,HPN 1 Glacier,glacier in Chile
@@ -464,6 +463,7 @@ http://www.wikidata.org/entity/Q64142945,Faabergstoelsbreen Glacier,glacier in N
 http://www.wikidata.org/entity/Q64143099,Hellstugubreen Glacier,glacier in Norway
 http://www.wikidata.org/entity/Q64143523,Leones Glacier,glacier in Chile
 http://www.wikidata.org/entity/Q64143089,Gladys Lake,glacier in Canada
+http://www.wikidata.org/entity/Q64143583,Klappan River,glacier in Canada
 http://www.wikidata.org/entity/Q64142915,Chinitna Bay,glacier in United States
 http://www.wikidata.org/entity/Q64142936,College Fiord,glacier in United States
 http://www.wikidata.org/entity/Q64143223,Grand Teton Glacier,glacier in United States
@@ -550,6 +550,7 @@ http://www.wikidata.org/entity/Q64143703,Longs Peak,glacier in United States
 http://www.wikidata.org/entity/Q64143787,Kaliakh River,glacier in United States
 http://www.wikidata.org/entity/Q64143891,Lava Fork Area,glacier in United States and Canada
 http://www.wikidata.org/entity/Q64143927,Kyimoshung Glacier,glacier in Nepal
+http://www.wikidata.org/entity/Q64143928,Lirung Glacier,glacier in Nepal
 http://www.wikidata.org/entity/Q64143793,Icy Bay,glacier in United States
 http://www.wikidata.org/entity/Q64143790,Kulthieth Mountain,glacier in United States
 http://www.wikidata.org/entity/Q64143716,Longmire Meadow,glacier in United States
@@ -557,7 +558,6 @@ http://www.wikidata.org/entity/Q64143692,Manshuk Mametova Glacier,glacier in Kaz
 http://www.wikidata.org/entity/Q64143628,Meeham Glacier,glacier in Greenland
 http://www.wikidata.org/entity/Q64143717,Kautz Creek,glacier in United States
 http://www.wikidata.org/entity/Q64143903,Marmaglaciaren Glacier,glacier in Norway
-http://www.wikidata.org/entity/Q64143583,Klappan River,glacier in Canada
 http://www.wikidata.org/entity/Q64143697,Lyell Glacier,glacier in United States
 http://www.wikidata.org/entity/Q64143719,McDonald Peak,glacier in United States
 http://www.wikidata.org/entity/Q64143728,Longfellow Peak,glacier in United States
@@ -624,6 +624,7 @@ http://www.wikidata.org/entity/Q64144045,Mount Zirkel,glacier in United States
 http://www.wikidata.org/entity/Q64144123,Mount Ferry,glacier in United States
 http://www.wikidata.org/entity/Q64144144,Mount Fury,glacier in United States
 http://www.wikidata.org/entity/Q64144173,Oweegee Peak,glacier in Canada
+http://www.wikidata.org/entity/Q64144203,Northwestern Glacier,glacier in United States
 http://www.wikidata.org/entity/Q64144017,Nevados Chopicallqui,glacier in Peru
 http://www.wikidata.org/entity/Q64143962,Northern Patagonia Glaciers,glacier in Chile and Argentina
 http://www.wikidata.org/entity/Q64143964,Mount John Jay,glacier in Canada and United States
@@ -641,7 +642,6 @@ http://www.wikidata.org/entity/Q64144140,Mineral Creek,glacier in United States
 http://www.wikidata.org/entity/Q64144076,Ober Gabelhorn,glacier in Switzerland
 http://www.wikidata.org/entity/Q64144184,Mount Crillon,glacier in United States
 http://www.wikidata.org/entity/Q64143965,Mount Fawcett,glacier in Canada and United States
-http://www.wikidata.org/entity/Q64143928,Lirung Glacier,glacier in Nepal
 http://www.wikidata.org/entity/Q64144065,Mount Wilse,glacier in United States
 http://www.wikidata.org/entity/Q64144187,Muir Point,glacier in United States
 http://www.wikidata.org/entity/Q64144066,Mount Hood,glacier in United States
@@ -698,6 +698,106 @@ http://www.wikidata.org/entity/Q64144179,Mount Martin,glacier in United States
 http://www.wikidata.org/entity/Q64144182,Mount Katmai,glacier in United States
 http://www.wikidata.org/entity/Q64144155,Mount Recheshnoi,glacier in United States
 http://www.wikidata.org/entity/Q64144063,Mount Moran,glacier in United States
+http://www.wikidata.org/entity/Q64144605,Sherman Peak,glacier in United States
+http://www.wikidata.org/entity/Q64144719,Sovereign Mountain,glacier in United States
+http://www.wikidata.org/entity/Q64145118,Turtmanngletscher,glacier in Switzerland
+http://www.wikidata.org/entity/Q64144655,Schooner Beach,glacier in United States
+http://www.wikidata.org/entity/Q64144750,Qimusseriarsuaq,glacier in Greenland
+http://www.wikidata.org/entity/Q64145009,Tête de Valpelline,glacier in Italy
+http://www.wikidata.org/entity/Q64144627,Porcupine Glacier (British Columbia),glacier in Canada
+http://www.wikidata.org/entity/Q64144651,Rainy Hollow Glacier,glacier in Canada
+http://www.wikidata.org/entity/Q64144645,Prairie Lake,glacier in Canada
+http://www.wikidata.org/entity/Q64144604,Pollock Mountain,glacier in United States
+http://www.wikidata.org/entity/Q64144654,Pile Bay,glacier in United States
+http://www.wikidata.org/entity/Q64144684,Redoubt Volcano,glacier in United States
+http://www.wikidata.org/entity/Q64144680,Seward Glacier,glacier in United States
+http://www.wikidata.org/entity/Q64144705,Shamrock Glacier,glacier in United States
+http://www.wikidata.org/entity/Q64144869,Wheeler Peak,glacier in United States
+http://www.wikidata.org/entity/Q64145121,Wishbone Glacier,glacier in United States
+http://www.wikidata.org/entity/Q64145166,Tatoosh Range,glacier in United States
+http://www.wikidata.org/entity/Q64144730,Robertson River,glacier in United States
+http://www.wikidata.org/entity/Q64144616,Smith Lake,glacier in United States
+http://www.wikidata.org/entity/Q64144751,Peary Glacier,glacier in Greenland
+http://www.wikidata.org/entity/Q64144681,Saint Elias Mountains,glacier in United States
+http://www.wikidata.org/entity/Q64144882,Wells Creek,glacier in United States
+http://www.wikidata.org/entity/Q64144663,Riou Bay,glacier in United States
+http://www.wikidata.org/entity/Q64144968,Zadezan Glacier,glacier in Italy and Switzerland
+http://www.wikidata.org/entity/Q64145133,Vadret da Rosatsch Glacier,glacier in Switzerland
+http://www.wikidata.org/entity/Q64145122,Ventina (Pizzo) Glacier,glacier in Italy
+http://www.wikidata.org/entity/Q64144632,Port Snettisham,glacier in United States
+http://www.wikidata.org/entity/Q64144883,Three Forks Park,glacier in United States
+http://www.wikidata.org/entity/Q64145210,Swiftcurrent Mountain,glacier in United States
+http://www.wikidata.org/entity/Q64144609,Picket Range,glacier in United States
+http://www.wikidata.org/entity/Q64144714,Rohn Glacier,glacier in United States
+http://www.wikidata.org/entity/Q64144856,Yale Glacier (Nepal),glacier in Nepal
+http://www.wikidata.org/entity/Q64145119,White Salmon Glacier (Yakima),glacier in United States
+http://www.wikidata.org/entity/Q64144677,Seal River,glacier in United States
+http://www.wikidata.org/entity/Q64144641,Rendu Inlet,glacier in United States
+http://www.wikidata.org/entity/Q64144884,Teton Range,glacier in United States
+http://www.wikidata.org/entity/Q64144754,Rinks Gletscher (north),glacier in Greenland
+http://www.wikidata.org/entity/Q64144756,Rasmussen Glacier,glacier in Greenland
+http://www.wikidata.org/entity/Q64145151,Strahlegg-gletscher,glacier in Switzerland
+http://www.wikidata.org/entity/Q64144678,Seward,glacier in United States
+http://www.wikidata.org/entity/Q64144625,Patterson Glacier,glacier in United States
+http://www.wikidata.org/entity/Q64144634,Southwest Glacier,glacier in United States
+http://www.wikidata.org/entity/Q64144711,Radcliffe Glacier,glacier in United States
+http://www.wikidata.org/entity/Q64144699,Silver Glacier (Alaska),glacier in United States
+http://www.wikidata.org/entity/Q64144725,Slana River,glacier in United States
+http://www.wikidata.org/entity/Q64145169,Stevens Glacier,glacier in United States
+http://www.wikidata.org/entity/Q64145180,Tipsoo Lake,glacier in United States
+http://www.wikidata.org/entity/Q64144690,Prince William Sound,glacier in United States
+http://www.wikidata.org/entity/Q64144618,Skowill Creek,glacier in Canada
+http://www.wikidata.org/entity/Q64144864,University Peak,glacier in United States
+http://www.wikidata.org/entity/Q64144749,Qeqertarsuup Tunua,glacier in Greenland
+http://www.wikidata.org/entity/Q64145136,Ghiacciaio di Val Torta,glacier in Switzerland
+http://www.wikidata.org/entity/Q64145163,Steinlimigletscher,glacier in Switzerland
+http://www.wikidata.org/entity/Q64145160,Triftgletscher (Gadmen),glacier in Switzerland
+http://www.wikidata.org/entity/Q64145145,Suretta Merid Glacier,glacier in Italy
+http://www.wikidata.org/entity/Q64145147,Tofana di Rozes,glacier in Italy
+http://www.wikidata.org/entity/Q64144850,Strindberg Glacier,glacier in Chile
+http://www.wikidata.org/entity/Q64144851,Tempano Glacier,glacier in Chile
+http://www.wikidata.org/entity/Q64144617,Slamgeesh Range,glacier in Canada
+http://www.wikidata.org/entity/Q64144642,Plateau Glacier,glacier in United States
+http://www.wikidata.org/entity/Q64144661,Point Latouche,glacier in United States
+http://www.wikidata.org/entity/Q64145120,White Salmon - Avalanche Glacier,glacier in United States
+http://www.wikidata.org/entity/Q64144877,Urumqi Glacier,glacier in China
+http://www.wikidata.org/entity/Q64144715,Skwentna River,glacier in United States
+http://www.wikidata.org/entity/Q64144873,Sundance Mountain,glacier in United States
+http://www.wikidata.org/entity/Q64144640,Queen Inlet,glacier in United States
+http://www.wikidata.org/entity/Q64144610,Porcupine Ridge,glacier in United States
+http://www.wikidata.org/entity/Q64144847,Zongo Glacier,glacier in Bolivia
+http://www.wikidata.org/entity/Q64145010,Tiefmattengletscher,glacier in Switzerland
+http://www.wikidata.org/entity/Q64145183,Hintersulzfirn,glacier in Switzerland
+http://www.wikidata.org/entity/Q64145162,Steingletscher,glacier in Switzerland
+http://www.wikidata.org/entity/Q64144742,Søndre Strømfjord,glacier in Greenland
+http://www.wikidata.org/entity/Q64144606,Sherman Crater,glacier in United States
+http://www.wikidata.org/entity/Q64144653,Point Manby,glacier in United States
+http://www.wikidata.org/entity/Q64144660,Point Riou,glacier in United States
+http://www.wikidata.org/entity/Q64144885,Timberline Lodge,glacier in United States
+http://www.wikidata.org/entity/Q64144734,Skalafellsjökull,glacier in Iceland
+http://www.wikidata.org/entity/Q64145158,Tre Cime di Lavaredo,glacier in Italy
+http://www.wikidata.org/entity/Q64144745,Passusjietna West Glacier,glacier in Sweden
+http://www.wikidata.org/entity/Q64144635,Reid Glacier (Alaska),glacier in United States
+http://www.wikidata.org/entity/Q64144722,Rainy Pass,glacier in United States
+http://www.wikidata.org/entity/Q64144683,Snow River,glacier in United States
+http://www.wikidata.org/entity/Q64145198,Swan Peak,glacier in United States
+http://www.wikidata.org/entity/Q64145137,Wannenhorngletscher,glacier in Switzerland
+http://www.wikidata.org/entity/Q64144619,Snowbank Creek,glacier in Canada
+http://www.wikidata.org/entity/Q64144848,Wollaston Glacier,glacier in Indonesia
+http://www.wikidata.org/entity/Q64144611,Silver Glacier,glacier in United States
+http://www.wikidata.org/entity/Q64144646,Rendu Glacier,glacier in United States
+http://www.wikidata.org/entity/Q64144628,Sawyer Glacier,glacier in United States
+http://www.wikidata.org/entity/Q64144649,Rodman Glacier,glacier in United States
+http://www.wikidata.org/entity/Q64144713,Regal Glacier,glacier in United States
+http://www.wikidata.org/entity/Q64144747,Sheenjek River,glacier in United States
+http://www.wikidata.org/entity/Q64144860,Thulagi Glacier,glacier in Nepal
+http://www.wikidata.org/entity/Q64144879,Titcomb Lakes,glacier in United States
+http://www.wikidata.org/entity/Q64145201,University Glacier,glacier in United States
+http://www.wikidata.org/entity/Q64144607,Snow Moon Lake,glacier in United States
+http://www.wikidata.org/entity/Q64144712,Snowcap Mountain,glacier in United States
+http://www.wikidata.org/entity/Q64144682,Sargent Ice Field,glacier in United States
+http://www.wikidata.org/entity/Q64144612,Skeena River,glacier in Canada
+http://www.wikidata.org/entity/Q64144669,Pulpito Del Diablo Glacier,glacier in Colombia
 http://www.wikidata.org/entity/Q64144584,Mount Skokomish,glacier in United States
 http://www.wikidata.org/entity/Q64144587,Sitting Bull Mountain,glacier in United States
 http://www.wikidata.org/entity/Q64144531,Saint Lawrence River,glacier in United States
@@ -718,7 +818,6 @@ http://www.wikidata.org/entity/Q64144538,Prarayer,glacier in Italy
 http://www.wikidata.org/entity/Q64144211,Nellie Juan Glacier,glacier in United States
 http://www.wikidata.org/entity/Q64144509,Rolwaling Glacier,glacier in Nepal
 http://www.wikidata.org/entity/Q64144583,Rampart Glacier,glacier in United States
-http://www.wikidata.org/entity/Q64144203,Northwestern Glacier,glacier in United States
 http://www.wikidata.org/entity/Q64144263,Mount Kimball,glacier in United States
 http://www.wikidata.org/entity/Q64144296,Morris Jesup Glacier,glacier in Greenland
 http://www.wikidata.org/entity/Q64144223,Mount Hogan,glacier in United States
@@ -763,6 +862,7 @@ http://www.wikidata.org/entity/Q64144592,Mount Pinchot,glacier in United States
 http://www.wikidata.org/entity/Q64144504,Pastorouri Glacier,glacier in Peru
 http://www.wikidata.org/entity/Q64144506,Popocatépetl Glacier,glacier in Mexico
 http://www.wikidata.org/entity/Q64144511,Rikha Samba Glacier,glacier in Nepal
+http://www.wikidata.org/entity/Q64144601,Saint Mary Lake,glacier in United States
 http://www.wikidata.org/entity/Q64144227,Mount Bona,glacier in United States
 http://www.wikidata.org/entity/Q64144291,Nansen Glacier,glacier in Greenland
 http://www.wikidata.org/entity/Q64144277,Mount Salisbury,glacier in United States
@@ -798,106 +898,114 @@ http://www.wikidata.org/entity/Q64144580,Sonielem Lake,glacier in United States
 http://www.wikidata.org/entity/Q64144244,Mount Gordon,glacier in United States
 http://www.wikidata.org/entity/Q64144581,Schneeferner South Glacier,glacier in Germany
 http://www.wikidata.org/entity/Q64144210,Mount Miller,glacier in United States
-http://www.wikidata.org/entity/Q64144605,Sherman Peak,glacier in United States
-http://www.wikidata.org/entity/Q64144719,Sovereign Mountain,glacier in United States
-http://www.wikidata.org/entity/Q64145118,Turtmanngletscher,glacier in Switzerland
-http://www.wikidata.org/entity/Q64144655,Schooner Beach,glacier in United States
-http://www.wikidata.org/entity/Q64144750,Qimusseriarsuaq,glacier in Greenland
-http://www.wikidata.org/entity/Q64145009,Tête de Valpelline,glacier in Italy
-http://www.wikidata.org/entity/Q64144627,Porcupine Glacier (British Columbia),glacier in Canada
-http://www.wikidata.org/entity/Q64144651,Rainy Hollow Glacier,glacier in Canada
-http://www.wikidata.org/entity/Q64144645,Prairie Lake,glacier in Canada
-http://www.wikidata.org/entity/Q64144604,Pollock Mountain,glacier in United States
-http://www.wikidata.org/entity/Q64144654,Pile Bay,glacier in United States
-http://www.wikidata.org/entity/Q64144684,Redoubt Volcano,glacier in United States
-http://www.wikidata.org/entity/Q64144680,Seward Glacier,glacier in United States
-http://www.wikidata.org/entity/Q64144705,Shamrock Glacier,glacier in United States
-http://www.wikidata.org/entity/Q64144869,Wheeler Peak,glacier in United States
-http://www.wikidata.org/entity/Q64145121,Wishbone Glacier,glacier in United States
-http://www.wikidata.org/entity/Q64145166,Tatoosh Range,glacier in United States
-http://www.wikidata.org/entity/Q64144730,Robertson River,glacier in United States
-http://www.wikidata.org/entity/Q64144616,Smith Lake,glacier in United States
-http://www.wikidata.org/entity/Q64144751,Peary Glacier,glacier in Greenland
-http://www.wikidata.org/entity/Q64144681,Saint Elias Mountains,glacier in United States
-http://www.wikidata.org/entity/Q64144882,Wells Creek,glacier in United States
-http://www.wikidata.org/entity/Q64144663,Riou Bay,glacier in United States
-http://www.wikidata.org/entity/Q64144968,Zadezan Glacier,glacier in Italy and Switzerland
-http://www.wikidata.org/entity/Q64145133,Vadret da Rosatsch Glacier,glacier in Switzerland
-http://www.wikidata.org/entity/Q64145122,Ventina (Pizzo) Glacier,glacier in Italy
-http://www.wikidata.org/entity/Q64144632,Port Snettisham,glacier in United States
-http://www.wikidata.org/entity/Q64144883,Three Forks Park,glacier in United States
-http://www.wikidata.org/entity/Q64144609,Picket Range,glacier in United States
-http://www.wikidata.org/entity/Q64144714,Rohn Glacier,glacier in United States
-http://www.wikidata.org/entity/Q64144856,Yale Glacier (Nepal),glacier in Nepal
-http://www.wikidata.org/entity/Q64145119,White Salmon Glacier (Yakima),glacier in United States
-http://www.wikidata.org/entity/Q64144677,Seal River,glacier in United States
-http://www.wikidata.org/entity/Q64144641,Rendu Inlet,glacier in United States
-http://www.wikidata.org/entity/Q64144884,Teton Range,glacier in United States
-http://www.wikidata.org/entity/Q64144754,Rinks Gletscher (north),glacier in Greenland
-http://www.wikidata.org/entity/Q64144756,Rasmussen Glacier,glacier in Greenland
-http://www.wikidata.org/entity/Q64145151,Strahlegg-gletscher,glacier in Switzerland
-http://www.wikidata.org/entity/Q64144678,Seward,glacier in United States
-http://www.wikidata.org/entity/Q64144625,Patterson Glacier,glacier in United States
-http://www.wikidata.org/entity/Q64144634,Southwest Glacier,glacier in United States
-http://www.wikidata.org/entity/Q64144711,Radcliffe Glacier,glacier in United States
-http://www.wikidata.org/entity/Q64144699,Silver Glacier (Alaska),glacier in United States
-http://www.wikidata.org/entity/Q64144725,Slana River,glacier in United States
-http://www.wikidata.org/entity/Q64145169,Stevens Glacier,glacier in United States
-http://www.wikidata.org/entity/Q64145180,Tipsoo Lake,glacier in United States
-http://www.wikidata.org/entity/Q64144690,Prince William Sound,glacier in United States
-http://www.wikidata.org/entity/Q64144618,Skowill Creek,glacier in Canada
-http://www.wikidata.org/entity/Q64144864,University Peak,glacier in United States
-http://www.wikidata.org/entity/Q64144749,Qeqertarsuup Tunua,glacier in Greenland
-http://www.wikidata.org/entity/Q64145136,Ghiacciaio di Val Torta,glacier in Switzerland
-http://www.wikidata.org/entity/Q64145163,Steinlimigletscher,glacier in Switzerland
-http://www.wikidata.org/entity/Q64145160,Triftgletscher (Gadmen),glacier in Switzerland
-http://www.wikidata.org/entity/Q64145145,Suretta Merid Glacier,glacier in Italy
-http://www.wikidata.org/entity/Q64145147,Tofana di Rozes,glacier in Italy
-http://www.wikidata.org/entity/Q64144850,Strindberg Glacier,glacier in Chile
-http://www.wikidata.org/entity/Q64144851,Tempano Glacier,glacier in Chile
-http://www.wikidata.org/entity/Q64144617,Slamgeesh Range,glacier in Canada
-http://www.wikidata.org/entity/Q64144642,Plateau Glacier,glacier in United States
-http://www.wikidata.org/entity/Q64144661,Point Latouche,glacier in United States
-http://www.wikidata.org/entity/Q64145120,White Salmon - Avalanche Glacier,glacier in United States
-http://www.wikidata.org/entity/Q64144877,Urumqi Glacier,glacier in China
-http://www.wikidata.org/entity/Q64144715,Skwentna River,glacier in United States
-http://www.wikidata.org/entity/Q64144873,Sundance Mountain,glacier in United States
-http://www.wikidata.org/entity/Q64144640,Queen Inlet,glacier in United States
-http://www.wikidata.org/entity/Q64144610,Porcupine Ridge,glacier in United States
-http://www.wikidata.org/entity/Q64144847,Zongo Glacier,glacier in Bolivia
-http://www.wikidata.org/entity/Q64145010,Tiefmattengletscher,glacier in Switzerland
-http://www.wikidata.org/entity/Q64145183,Hintersulzfirn,glacier in Switzerland
-http://www.wikidata.org/entity/Q64145162,Steingletscher,glacier in Switzerland
-http://www.wikidata.org/entity/Q64144742,Søndre Strømfjord,glacier in Greenland
-http://www.wikidata.org/entity/Q64144601,Saint Mary Lake,glacier in United States
-http://www.wikidata.org/entity/Q64144606,Sherman Crater,glacier in United States
-http://www.wikidata.org/entity/Q64144653,Point Manby,glacier in United States
-http://www.wikidata.org/entity/Q64144660,Point Riou,glacier in United States
-http://www.wikidata.org/entity/Q64144885,Timberline Lodge,glacier in United States
-http://www.wikidata.org/entity/Q64144734,Skalafellsjökull,glacier in Iceland
-http://www.wikidata.org/entity/Q64145158,Tre Cime di Lavaredo,glacier in Italy
-http://www.wikidata.org/entity/Q64144745,Passusjietna West Glacier,glacier in Sweden
-http://www.wikidata.org/entity/Q64144635,Reid Glacier (Alaska),glacier in United States
-http://www.wikidata.org/entity/Q64144722,Rainy Pass,glacier in United States
-http://www.wikidata.org/entity/Q64144683,Snow River,glacier in United States
-http://www.wikidata.org/entity/Q64145198,Swan Peak,glacier in United States
-http://www.wikidata.org/entity/Q64145137,Wannenhorngletscher,glacier in Switzerland
-http://www.wikidata.org/entity/Q64144619,Snowbank Creek,glacier in Canada
-http://www.wikidata.org/entity/Q64144848,Wollaston Glacier,glacier in Indonesia
-http://www.wikidata.org/entity/Q64144611,Silver Glacier,glacier in United States
-http://www.wikidata.org/entity/Q64144646,Rendu Glacier,glacier in United States
-http://www.wikidata.org/entity/Q64144628,Sawyer Glacier,glacier in United States
-http://www.wikidata.org/entity/Q64144649,Rodman Glacier,glacier in United States
-http://www.wikidata.org/entity/Q64144713,Regal Glacier,glacier in United States
-http://www.wikidata.org/entity/Q64144747,Sheenjek River,glacier in United States
-http://www.wikidata.org/entity/Q64144860,Thulagi Glacier,glacier in Nepal
-http://www.wikidata.org/entity/Q64144879,Titcomb Lakes,glacier in United States
-http://www.wikidata.org/entity/Q64145201,University Glacier,glacier in United States
-http://www.wikidata.org/entity/Q64144607,Snow Moon Lake,glacier in United States
-http://www.wikidata.org/entity/Q64144712,Snowcap Mountain,glacier in United States
-http://www.wikidata.org/entity/Q64144682,Sargent Ice Field,glacier in United States
-http://www.wikidata.org/entity/Q64144612,Skeena River,glacier in Canada
-http://www.wikidata.org/entity/Q64144669,Pulpito Del Diablo Glacier,glacier in Colombia
+http://www.wikidata.org/entity/Q101245611,Beas Kund glacier,glacier in India
+http://www.wikidata.org/entity/Q101245614,Chandra Glacier,glacier in India
+http://www.wikidata.org/entity/Q101245619,Gora Glacier,glacier in India
+http://www.wikidata.org/entity/Q101245628,Gor Gorang,glacier in India
+http://www.wikidata.org/entity/Q101245636,Kazi N Glacier,glacier in India
+http://www.wikidata.org/entity/Q101245629,Shaune Gorang,glacier in India
+http://www.wikidata.org/entity/Q107549153,Glacier de la Vuzelle,glacier in French Alps
+http://www.wikidata.org/entity/Q106464385,Q106464385,former glacier in Alpes
+http://www.wikidata.org/entity/Q108660279,Ammertengletscher,
+http://www.wikidata.org/entity/Q107369995,South polar ice cap,
+http://www.wikidata.org/entity/Q101245627,Gara,glacier in India
+http://www.wikidata.org/entity/Q101245616,Dhaka Glacier,glacier in India
+http://www.wikidata.org/entity/Q101245604,Thelu Glacier,glacier in India
+http://www.wikidata.org/entity/Q107549264,Glacier du Vallonnet,Glacier in France
+http://www.wikidata.org/entity/Q106795676,Gozenzawa Glacier,
+http://www.wikidata.org/entity/Q106520533,Larsen B Ice Shelf,ice shelf in Antarctica
+http://www.wikidata.org/entity/Q107314366,Montferrat Glacier,glacier in France
+http://www.wikidata.org/entity/Q106608793,Thulagi glacier,glacier in Nepal
+http://www.wikidata.org/entity/Q108525322,Kuusamo-White Sea ice lobe,
+http://www.wikidata.org/entity/Q108565945,Finnish Lake District ice lobe,
+http://www.wikidata.org/entity/Q108749435,Middle Swedish Ice Lobe,
+http://www.wikidata.org/entity/Q108770998,Norwegian Channel Ice Stream,
+http://www.wikidata.org/entity/Q108776157,Kattegat Ice Stream,
+http://www.wikidata.org/entity/Q108582015,Balmhorngletscher,
+http://www.wikidata.org/entity/Q108736348,Rottalgletscher,
+http://www.wikidata.org/entity/Q108907632,Wendengletscher,
+http://www.wikidata.org/entity/Q108951957,Näsijärvi–Jyväskylä Ice Lobe,
+http://www.wikidata.org/entity/Q101245631,Kangto Glacier,glacier in India
+http://www.wikidata.org/entity/Q101245621,Miyar Glacier,glacier in India
+http://www.wikidata.org/entity/Q101245605,Tipra Bamak,glacier in India
+http://www.wikidata.org/entity/Q101245620,The Lady of Keylong,glacier in India
+http://www.wikidata.org/entity/Q101245607,Uttari Nanda Devi Glacier,glacier in India
+http://www.wikidata.org/entity/Q109028105,Hengsterengletscher,
+http://www.wikidata.org/entity/Q109174429,Breitlouwenengletscher,
+http://www.wikidata.org/entity/Q101245612,Bhaga Glacier,glacier in India
+http://www.wikidata.org/entity/Q101245600,Suralaya Glacier,glacier in India
+http://www.wikidata.org/entity/Q101245626,Sonapani Glacier,glacier in India
+http://www.wikidata.org/entity/Q101245639,Tayseer Glacier,glacier in India
+http://www.wikidata.org/entity/Q107314268,Petit Vignemale Glacier,glacier in France
+http://www.wikidata.org/entity/Q101245615,Chandra Nahan Glacier,glacier in India
+http://www.wikidata.org/entity/Q101245635,Chong Kmdan Glacier,glacier in India
+http://www.wikidata.org/entity/Q101245634,Mazgol Glacier,glacier in India
+http://www.wikidata.org/entity/Q106473131,Romanche glacier,former glacier in France
+http://www.wikidata.org/entity/Q108611438,Lavaz glacier,Glacier in Switzerland
+http://www.wikidata.org/entity/Q109362279,Glasgow Glacier,"glacier at the Bakutis Coast, Marie Byrd Land, Antarctica"
+http://www.wikidata.org/entity/Q104875207,Floitenkees,"glacier in the Zillertal Alps in Tyrol, Austria"
+http://www.wikidata.org/entity/Q104874896,Alpeiner Ferner,"glacier in the Zillertal Alps in Tyrol, Austria"
+http://www.wikidata.org/entity/Q108783972,Knotenferner,"glacier in the Stubai Alps, Tyrol, Austria"
+http://www.wikidata.org/entity/Q101245638,Shirwali Glacier,glacier in India
+http://www.wikidata.org/entity/Q101245609,Vasuki Glacier,glacier in India
+http://www.wikidata.org/entity/Q104772914,Rudolph Glacier,
+http://www.wikidata.org/entity/Q107267009,Q107267009,
+http://www.wikidata.org/entity/Q107548532,Q107548532,
+http://www.wikidata.org/entity/Q107548964,Q107548964,
+http://www.wikidata.org/entity/Q107549049,Q107549049,
+http://www.wikidata.org/entity/Q107549077,Q107549077,
+http://www.wikidata.org/entity/Q107549869,Q107549869,
+http://www.wikidata.org/entity/Q107549968,Q107549968,
+http://www.wikidata.org/entity/Q107649540,Q107649540,
+http://www.wikidata.org/entity/Q108117231,Q108117231,
+http://www.wikidata.org/entity/Q108732039,Q108732039,
+http://www.wikidata.org/entity/Q109037366,Q109037366,
+http://www.wikidata.org/entity/Q109037367,Q109037367,
+http://www.wikidata.org/entity/Q109037371,Q109037371,
+http://www.wikidata.org/entity/Q109037368,Q109037368,
+http://www.wikidata.org/entity/Q109037369,Q109037369,
+http://www.wikidata.org/entity/Q109037374,Q109037374,
+http://www.wikidata.org/entity/Q109037372,Q109037372,
+http://www.wikidata.org/entity/Q109037373,Q109037373,
+http://www.wikidata.org/entity/Q109037378,Q109037378,
+http://www.wikidata.org/entity/Q109037379,Q109037379,
+http://www.wikidata.org/entity/Q109037376,Q109037376,
+http://www.wikidata.org/entity/Q109037377,Q109037377,
+http://www.wikidata.org/entity/Q109037383,Q109037383,
+http://www.wikidata.org/entity/Q109037380,Q109037380,
+http://www.wikidata.org/entity/Q109037381,Q109037381,
+http://www.wikidata.org/entity/Q104246100,Vetlebreen,
+http://www.wikidata.org/entity/Q105637486,Dakshini Nanda Devi Glacier,
+http://www.wikidata.org/entity/Q106795685,Yamatari Glacier,
+http://www.wikidata.org/entity/Q106813279,Totten Ice Shelf,
+http://www.wikidata.org/entity/Q101245610,BCB Glacier (bcb land),glacier in India
+http://www.wikidata.org/entity/Q101245622,Mukkila Glacier,glacier in India
+http://www.wikidata.org/entity/Q101245618,North Dakka Glacier,glacier in India
+http://www.wikidata.org/entity/Q101245623,Parbati and Dudhon,glacier in India
+http://www.wikidata.org/entity/Q101245625,Perad Glacier,glacier in India
+http://www.wikidata.org/entity/Q101245601,Sunderdhunga Glacier,glacier in India
+http://www.wikidata.org/entity/Q101245630,Nagpo Tokpo,glacier in India
+http://www.wikidata.org/entity/Q101245637,Nubra Glacier,glacier in India
+http://www.wikidata.org/entity/Q101245606,Trisul Glacier,glacier in India
+http://www.wikidata.org/entity/Q101245608,Uttari Rishi Glacier,glacier in India
+http://www.wikidata.org/entity/Q109355215,Kashalayak Glacier,"glacier in the Akademiya Nauk Range, Pamir mountains, Tajikistan"
+http://www.wikidata.org/entity/Q108545854,North Karelian ice lobe,
+http://www.wikidata.org/entity/Q107597108,tropical glaciers,glaciers located in the tropics
+http://www.wikidata.org/entity/Q105704516,Nanda Devi Glacier,glacier in India
+http://www.wikidata.org/entity/Q103534328,Mariner Glacier,
+http://www.wikidata.org/entity/Q108260657,Sítio das Pedras,"geosite in Madeira, Portugal"
+http://www.wikidata.org/entity/Q107550477,Grand Glacier,glacier in France
+http://www.wikidata.org/entity/Q104661368,Kälberspitzkees,glacier in Austria
+http://www.wikidata.org/entity/Q104661420,Hochalmkees,glacier in Austria
+http://www.wikidata.org/entity/Q109647737,Gutzgletscher,
+http://www.wikidata.org/entity/Q109376069,Berlin Glacier,"glacier at the Bakutis Coast, Marie Byrd Land, Antarctica"
+http://www.wikidata.org/entity/Q109375920,Paris Glacier,"glacier at the Bakutis Coast, Marie Byrd Land, Antarctica"
+http://www.wikidata.org/entity/Q109375962,Stockholm Glacier,"glacier at the Bakutis Coast, Marie Byrd Land, Antarctica"
+http://www.wikidata.org/entity/Q109376067,Kyoto Glacier,"glacier at the Bakutis Coast, Marie Byrd Land, Antarctica"
+http://www.wikidata.org/entity/Q109376603,Bali Glacier,"glacier at the Bakutis Coast, Marie Byrd Land, Antarctica"
+http://www.wikidata.org/entity/Q109377683,Rio Glacier,"glacier at the Hobbs Coast, Marie Byrd Land, Antarctica"
+http://www.wikidata.org/entity/Q109377684,Geneva Glacier,"glacier at the Hobbs Coast, Marie Byrd Land, Antarctica"
+http://www.wikidata.org/entity/Q109382304,Incheon Glacier,"glacier at the Bakutis Coast, Marie Byrd Land, Antarctica"
 http://www.wikidata.org/entity/Q89481538,Bichom Glacier,glacier in India
 http://www.wikidata.org/entity/Q64145354,Turquoise Lake,glacier in United States
 http://www.wikidata.org/entity/Q101245586,Kirti Bamak,glacier in India
@@ -914,7 +1022,6 @@ http://www.wikidata.org/entity/Q101245592,Paschimi Kamet Glacier,glacier in Indi
 http://www.wikidata.org/entity/Q89482357,Hari parbat Glacier,glacier in India
 http://www.wikidata.org/entity/Q64145247,Taylor River,glacier in Canada
 http://www.wikidata.org/entity/Q96575198,Maurerkees,glacier in Austria
-http://www.wikidata.org/entity/Q64145210,Swiftcurrent Mountain,glacier in United States
 http://www.wikidata.org/entity/Q64145268,Twin Glacier Lake,glacier in United States
 http://www.wikidata.org/entity/Q89037104,East Lenin glacier,glacier in Kyrgyzstan
 http://www.wikidata.org/entity/Q64145235,Tulik Volcano,glacier in United States
@@ -922,6 +1029,7 @@ http://www.wikidata.org/entity/Q64145367,Two Lakes,glacier in United States
 http://www.wikidata.org/entity/Q101245578,Chaturangi Glacier,glacier in India
 http://www.wikidata.org/entity/Q101245593,Purbi Kamet Glacier,glacier in India
 http://www.wikidata.org/entity/Q101245597,Ramani Glacier,glacier in India
+http://www.wikidata.org/entity/Q101245603,Swetvarn Glacier,glacier in India
 http://www.wikidata.org/entity/Q64145255,Thomas Bay,glacier in United States
 http://www.wikidata.org/entity/Q64145300,Teslin Lake,glacier in Canada
 http://www.wikidata.org/entity/Q64145254,Trygve Lake,glacier in Canada
@@ -998,111 +1106,3 @@ http://www.wikidata.org/entity/Q64145360,Telaquana Lake,glacier in United States
 http://www.wikidata.org/entity/Q89037107,West Lenin glacier,glacier in Kyrgyzstan
 http://www.wikidata.org/entity/Q64145220,Whitecrow Lake,glacier in United States
 http://www.wikidata.org/entity/Q64145234,Umnak Island,glacier in United States
-http://www.wikidata.org/entity/Q109376069,Berlin Glacier,"glacier at the Bakutis Coast, Marie Byrd Land, Antarctica"
-http://www.wikidata.org/entity/Q109362279,Glasgow Glacier,"glacier at the Bakutis Coast, Marie Byrd Land, Antarctica"
-http://www.wikidata.org/entity/Q109375920,Paris Glacier,"glacier at the Bakutis Coast, Marie Byrd Land, Antarctica"
-http://www.wikidata.org/entity/Q109375962,Stockholm Glacier,"glacier at the Bakutis Coast, Marie Byrd Land, Antarctica"
-http://www.wikidata.org/entity/Q109376067,Kyoto Glacier,"glacier at the Bakutis Coast, Marie Byrd Land, Antarctica"
-http://www.wikidata.org/entity/Q109376603,Bali Glacier,"glacier at the Bakutis Coast, Marie Byrd Land, Antarctica"
-http://www.wikidata.org/entity/Q109377683,Rio Glacier,"glacier at the Hobbs Coast, Marie Byrd Land, Antarctica"
-http://www.wikidata.org/entity/Q109377684,Geneva Glacier,"glacier at the Hobbs Coast, Marie Byrd Land, Antarctica"
-http://www.wikidata.org/entity/Q109382304,Incheon Glacier,"glacier at the Bakutis Coast, Marie Byrd Land, Antarctica"
-http://www.wikidata.org/entity/Q101245611,Beas Kund glacier,glacier in India
-http://www.wikidata.org/entity/Q101245614,Chandra Glacier,glacier in India
-http://www.wikidata.org/entity/Q101245619,Gora Glacier,glacier in India
-http://www.wikidata.org/entity/Q101245628,Gor Gorang,glacier in India
-http://www.wikidata.org/entity/Q101245636,Kazi N Glacier,glacier in India
-http://www.wikidata.org/entity/Q101245629,Shaune Gorang,glacier in India
-http://www.wikidata.org/entity/Q107549153,Glacier de la Vuzelle,glacier in French Alps
-http://www.wikidata.org/entity/Q106464385,Q106464385,former glacier in Alpes
-http://www.wikidata.org/entity/Q108660279,Ammertengletscher,
-http://www.wikidata.org/entity/Q107369995,South polar ice cap,
-http://www.wikidata.org/entity/Q101245627,Gara,glacier in India
-http://www.wikidata.org/entity/Q101245616,Dhaka Glacier,glacier in India
-http://www.wikidata.org/entity/Q101245604,Thelu Glacier,glacier in India
-http://www.wikidata.org/entity/Q107549264,Glacier du Vallonnet,Glacier in France
-http://www.wikidata.org/entity/Q106795676,Gozenzawa Glacier,
-http://www.wikidata.org/entity/Q106520533,Larsen B Ice Shelf,ice shelf in Antarctica
-http://www.wikidata.org/entity/Q107314366,Montferrat Glacier,glacier in France
-http://www.wikidata.org/entity/Q106608793,Thulagi glacier,glacier in Nepal
-http://www.wikidata.org/entity/Q108525322,Kuusamo-White Sea ice lobe,
-http://www.wikidata.org/entity/Q108565945,Finnish Lake District ice lobe,
-http://www.wikidata.org/entity/Q108749435,Middle Swedish Ice Lobe,
-http://www.wikidata.org/entity/Q108770998,Norwegian Channel Ice Stream,
-http://www.wikidata.org/entity/Q108776157,Kattegat Ice Stream,
-http://www.wikidata.org/entity/Q108582015,Balmhorngletscher,
-http://www.wikidata.org/entity/Q108736348,Rottalgletscher,
-http://www.wikidata.org/entity/Q108907632,Wendengletscher,
-http://www.wikidata.org/entity/Q108951957,Näsijärvi–Jyväskylä Ice Lobe,
-http://www.wikidata.org/entity/Q101245631,Kangto Glacier,glacier in India
-http://www.wikidata.org/entity/Q101245621,Miyar Glacier,glacier in India
-http://www.wikidata.org/entity/Q101245603,Swetvarn Glacier,glacier in India
-http://www.wikidata.org/entity/Q101245605,Tipra Bamak,glacier in India
-http://www.wikidata.org/entity/Q101245620,The Lady of Keylong,glacier in India
-http://www.wikidata.org/entity/Q101245607,Uttari Nanda Devi Glacier,glacier in India
-http://www.wikidata.org/entity/Q109028105,Hengsterengletscher,
-http://www.wikidata.org/entity/Q109174429,Breitlouwenengletscher,
-http://www.wikidata.org/entity/Q101245612,Bhaga Glacier,glacier in India
-http://www.wikidata.org/entity/Q101245600,Suralaya Glacier,glacier in India
-http://www.wikidata.org/entity/Q101245626,Sonapani Glacier,glacier in India
-http://www.wikidata.org/entity/Q101245639,Tayseer Glacier,glacier in India
-http://www.wikidata.org/entity/Q107314268,Petit Vignemale Glacier,glacier in France
-http://www.wikidata.org/entity/Q101245615,Chandra Nahan Glacier,glacier in India
-http://www.wikidata.org/entity/Q101245635,Chong Kmdan Glacier,glacier in India
-http://www.wikidata.org/entity/Q101245634,Mazgol Glacier,glacier in India
-http://www.wikidata.org/entity/Q106473131,Romanche glacier,former glacier in France
-http://www.wikidata.org/entity/Q108611438,Lavaz glacier,Glacier in Switzerland
-http://www.wikidata.org/entity/Q104875207,Floitenkees,"glacier in the Zillertal Alps in Tyrol, Austria"
-http://www.wikidata.org/entity/Q104874896,Alpeiner Ferner,"glacier in the Zillertal Alps in Tyrol, Austria"
-http://www.wikidata.org/entity/Q108783972,Knotenferner,"glacier in the Stubai Alps, Tyrol, Austria"
-http://www.wikidata.org/entity/Q101245638,Shirwali Glacier,glacier in India
-http://www.wikidata.org/entity/Q101245609,Vasuki Glacier,glacier in India
-http://www.wikidata.org/entity/Q104772914,Rudolph Glacier,
-http://www.wikidata.org/entity/Q107267009,Q107267009,
-http://www.wikidata.org/entity/Q107548532,Q107548532,
-http://www.wikidata.org/entity/Q107548964,Q107548964,
-http://www.wikidata.org/entity/Q107549049,Q107549049,
-http://www.wikidata.org/entity/Q107549077,Q107549077,
-http://www.wikidata.org/entity/Q107549869,Q107549869,
-http://www.wikidata.org/entity/Q107549968,Q107549968,
-http://www.wikidata.org/entity/Q107649540,Q107649540,
-http://www.wikidata.org/entity/Q108117231,Q108117231,
-http://www.wikidata.org/entity/Q108732039,Q108732039,
-http://www.wikidata.org/entity/Q109037366,Q109037366,
-http://www.wikidata.org/entity/Q109037367,Q109037367,
-http://www.wikidata.org/entity/Q109037371,Q109037371,
-http://www.wikidata.org/entity/Q109037368,Q109037368,
-http://www.wikidata.org/entity/Q109037369,Q109037369,
-http://www.wikidata.org/entity/Q109037374,Q109037374,
-http://www.wikidata.org/entity/Q109037372,Q109037372,
-http://www.wikidata.org/entity/Q109037373,Q109037373,
-http://www.wikidata.org/entity/Q109037378,Q109037378,
-http://www.wikidata.org/entity/Q109037379,Q109037379,
-http://www.wikidata.org/entity/Q109037376,Q109037376,
-http://www.wikidata.org/entity/Q109037377,Q109037377,
-http://www.wikidata.org/entity/Q109037383,Q109037383,
-http://www.wikidata.org/entity/Q109037380,Q109037380,
-http://www.wikidata.org/entity/Q109037381,Q109037381,
-http://www.wikidata.org/entity/Q104246100,Vetlebreen,
-http://www.wikidata.org/entity/Q105637486,Dakshini Nanda Devi Glacier,
-http://www.wikidata.org/entity/Q106795685,Yamatari Glacier,
-http://www.wikidata.org/entity/Q106813279,Totten Ice Shelf,
-http://www.wikidata.org/entity/Q101245610,BCB Glacier (bcb land),glacier in India
-http://www.wikidata.org/entity/Q101245622,Mukkila Glacier,glacier in India
-http://www.wikidata.org/entity/Q101245618,North Dakka Glacier,glacier in India
-http://www.wikidata.org/entity/Q101245623,Parbati and Dudhon,glacier in India
-http://www.wikidata.org/entity/Q101245625,Perad Glacier,glacier in India
-http://www.wikidata.org/entity/Q101245601,Sunderdhunga Glacier,glacier in India
-http://www.wikidata.org/entity/Q101245630,Nagpo Tokpo,glacier in India
-http://www.wikidata.org/entity/Q101245637,Nubra Glacier,glacier in India
-http://www.wikidata.org/entity/Q101245606,Trisul Glacier,glacier in India
-http://www.wikidata.org/entity/Q101245608,Uttari Rishi Glacier,glacier in India
-http://www.wikidata.org/entity/Q109355215,Kashalayak Glacier,"glacier in the Akademiya Nauk Range, Pamir mountains, Tajikistan"
-http://www.wikidata.org/entity/Q108545854,North Karelian ice lobe,
-http://www.wikidata.org/entity/Q107597108,tropical glaciers,glaciers located in the tropics
-http://www.wikidata.org/entity/Q105704516,Nanda Devi Glacier,glacier in India
-http://www.wikidata.org/entity/Q103534328,Mariner Glacier,
-http://www.wikidata.org/entity/Q108260657,Sítio das Pedras,"geosite in Madeira, Portugal"
-http://www.wikidata.org/entity/Q107550477,Grand Glacier,glacier in France
-http://www.wikidata.org/entity/Q104661368,Kälberspitzkees,glacier in Austria
-http://www.wikidata.org/entity/Q104661420,Hochalmkees,glacier in Austria
