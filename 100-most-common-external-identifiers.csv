@@ -1,5 +1,5 @@
 propertyLabel,propertyDescription,count
-GeoNames ID,identifier in the GeoNames geographical database,6646
+GeoNames ID,identifier in the GeoNames geographical database,6647
 Freebase ID,"identifier for a page in the Freebase database. Format: ""/m/0"" followed by 2 to 7 characters. For those starting with ""/g/"", use Google Knowledge Graph identifier (P2671)",2888
 GLIMS ID,identifier assigned to glaciers by the Global Land Ice Measurements from Space service at NSIDC,2421
 SCAR Composite Gazetteer place ID,identifier in the international composite gazetteer for Antarctica run by the Scientific Committee on Antarctic Research,2111
@@ -44,35 +44,35 @@ Bavarian geotope ID,"identifier for geotopes in Bavaria (Germany), issued by the
 Microsoft Academic ID,identifier for an object or topic in the Microsoft Academic Graph,5
 Washington Place Names ID,numerical identifier for a place in Washington Place Names,5
 HDS ID,"identifier in HDS/HLS/DHS/DSS: Historical Dictionary of Switzerland (Q642074), a national encyclopedia",4
+Peakbagger mountain ID,"identifier for a mountain, on the www.peakbagger.com website",4
 Smithsonian volcano ID,identifier of volcano in the Smithsonian Global Volcanism Program. Format: 6 digits.,4
 VOGRIPA ID,identifier for a volcano on the Volcano Global Risk Identification and Analysis Project website,4
-Peakbagger mountain ID,"identifier for a mountain, on the www.peakbagger.com website",4
 National Natural Landmarks site ID,identifier an American National Natural Landmark on the United States' National Park Service website,3
 National Park Service place ID,identifier for a place in the United States on the National Park Service website,3
 YouTube video ID,"identifier of a video on YouTube; qualify trailers with ""object has role"" (P3831)=""trailer"" (Q622550). For channels use P2397; for playlists use P4300",3
 De Agostini ID,identifier for a subject on the Enciclopedia De Agostini online,3
 Peakbagger key col ID,"identifier for a key col, on the peakbagger.com website",3
 SummitPost ID,identifer of a mountain or other location on SummitPost,2
-edition humboldt digital ID,"identifier for the register of biographies, places and institutions in edition humboldt digital",2
 MinDat locality ID,ID of the minerals locality in MinDat database,2
+edition humboldt digital ID,"identifier for the register of biographies, places and institutions in edition humboldt digital",2
 NE.se ID,ID of article on the Swedish Nationalencyklopedin (NE.se) site,2
-National Library of Israel ID,identifier for authority control used at the National Library of Israel,2
 FAST ID,authority control identifier in WorldCat's “FAST Linked Data” authority file,2
-ortsnamen.ch ID,identifier for a toponym/geographical object on ortsnamen.ch,1
+National Library of Israel ID,identifier for authority control used at the National Library of Israel,2
 Facebook Places ID,identifier for a place in Facebook,1
 Lexicon istoric retic ID,"identifier in the Lexicon istoric retic (LIR), Romansh variant of Historical Dictionary of Switzerland",1
+ortsnamen.ch ID,identifier for a toponym/geographical object on ortsnamen.ch,1
 Brockhaus Enzyklopädie online ID,identifier for an article in the online version of Brockhaus Enzyklopädie,1
 Who's on First ID,identifier from the Who's on First database,1
 peakware mountain ID,identifier for a mountain at Peakware.com,1
-Lokalhistoriewiki.no ID,identifier for an article in lokalhistoriewiki.no,1
 PLWABN ID,"National Library of Poland record no. identifier. Format: ""981"", followed by 8 digits, then ending with ""05606""",1
+Lokalhistoriewiki.no ID,identifier for an article in lokalhistoriewiki.no,1
 Interlingual Index ID,,1
 WordNet 3.1 Synset ID,Synset identifier in Princeton’s WordNet Version 3.1,1
 Curlie ID,category path at Open Directory Project,1
 OBO Gazetteer ID,identifier from the Open Bio Ontologies Gazetteer (GAZ) (without prefix),1
 Natural Atlas ID,identifier for a place on the Natural Atlas website,1
-Hiking Project site ID,identifier for a remarkable site (a 'gem') on the Hiking Project website,1
 Google Maps Customer ID,"in Google Maps, Customer identifier for a place",1
+Hiking Project site ID,identifier for a remarkable site (a 'gem') on the Hiking Project website,1
 Peakbagger area ID,"identifier for a mountain range or an area, on the peakbagger.com website",1
 archINFORM location ID,identifier for a location on the archINFORM website,1
 OmegaWiki Defined Meaning,"""Defined Meaning"" on the site",1
